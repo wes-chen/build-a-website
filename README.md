@@ -11,6 +11,21 @@ The first two weeks will deal making your own Github account, with Github Deskto
 
 The next ten weeks will cover basic fundamentals of HTML, CSS, and maybe Javascript (TBD).
 
+### Weekly Plan
+
+1.  Welcome, Setup, Github Accounts
+2.  Github Desktop
+3.  HTML Basics
+4.  CSS Styling
+5.  Make a front page
+6.  Add Bootstrap
+7.  Add JavaScript
+8.  Make a nav-bar
+9.  Add pages to your website
+10. Embed stuff
+11. Project: Make a your own professional website!
+12. Conclusion
+
 By the end of the course, you should have a working website that you can proudly show off to your friends (and flex on them).
 
 ## Authors and acknowledgment
