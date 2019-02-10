@@ -28,6 +28,10 @@ The next ten weeks will cover basic fundamentals of HTML, CSS, and maybe Javascr
 
 By the end of the course, you should have a working website that you can proudly show off to your friends (and flex on them).
 
+## Contributing
+
+Pull requests are welcome :)
+
 ## Authors and acknowledgment
 
 This project was written by [Wesley Chen][wesley] - VP External, [Triton Software Engineering (TSE)][tse]
@@ -39,3 +43,7 @@ Thanks to Lucas Occhino of [International Health Collective (IHC)][ihc] for conn
 [tse]: github.com/tritonse
 
 [ihc]: https://www.internationalhealthcollective.org/
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
