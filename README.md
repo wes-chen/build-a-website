@@ -15,6 +15,12 @@ By the end of the course, you should have a working website that you can proudly
 
 ## Authors and acknowledgment
 
-This project was written by [Wesley Chen](github.com/wes-chen) - VP External, [Triton Software Engineering (TSE)](github.com/tritonse)
+This project was written by [Wesley Chen][wesley] - VP External, [Triton Software Engineering (TSE)][tse]
 
-Thanks to Lucas Occhino of International Health Collective (IHC) for connecting TSE to Mar Vista High School, where we can do good work. :)
+Thanks to Lucas Occhino of [International Health Collective (IHC)][ihc] for connecting [TSE][tse] to Mar Vista High School, where we can do good work. :)
+
+[wesley]: github.com/wes-chen
+
+[tse]: github.com/tritonse
+
+[ihc]: https://www.internationalhealthcollective.org/
