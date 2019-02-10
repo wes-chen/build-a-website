@@ -3,6 +3,8 @@
 This repository holds the syllabus and lesson plans for Mar Vista HS "build a website" course.
 This is a work in progress as I am writing this from scratch.
 
+![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)
+
 ## Syllabus
 
 This is a course that will take place over 12 weeks.
