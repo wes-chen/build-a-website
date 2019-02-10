@@ -8,9 +8,9 @@
 
 ## Github Desktop
 
-### What is Github Desktop?
+### Normal Git commands
 
-Normally, to use Git and Github, we would need to use the _terminal_ on our computers to `pull`, `commit`, and `push` our code. Here's what it looks like:
+Normally, to use Git and Github, we would need to use the _terminal_ on our computers to save our code in the cloud. Here's what it looks like:
 
 Initializing a repository
 
@@ -19,9 +19,33 @@ git init
 ```
 
 Cloning a repository
-`git clone https://github.com/wes-chen/build-a-website.git`
+
+```bash
+git clone https://github.com/wes-chen/build-a-website.git
+```
 
 Pulling the most recent changes from your repository
-`git pull`
 
-Github Desktop
+```bash
+git pull
+```
+
+Committing some changes in your local machine
+
+```bash
+git commit
+```
+
+Pushing your changes to the **internet** (Github)
+
+```bash
+git push origin [branch-name]
+```
+
+### Github Desktop to the rescue!
+
+Fortunately, you don't have to learn this terminal stuff until you get to college.
+
+Github Desktop makes it easy for us to do all of these operations with the click of a few buttons!
+
+Let's try to pull our repository from last week, edit some files, commit our changes, then push it back to Github!
