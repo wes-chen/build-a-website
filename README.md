@@ -4,6 +4,7 @@ This repository holds the syllabus and lesson plans for Mar Vista HS "build a we
 This is a work in progress as I am writing this from scratch.
 
 ![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)
+![license](https://img.shields.io/github/license/wes-chen/build-a-website.svg?style=flat)
 
 ## Syllabus
 
