@@ -78,7 +78,5 @@ Steps:
 1.  Go to [github.com](https://github.com).
 2.  Sign up for an account.
 3.  Think about your username! It will probably stay with you forever, and companies will see it when they are hiring you. So while _xxxBigBallerMoneySwagMasterxxx_ is a cool username, it probably won't reflect well in front of employers.
-4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/).
+4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/) to make your very first repository!
 5.  Congratulations! You've made your first repository!
-
-**TODO** show some screenshots of how to make a github account
