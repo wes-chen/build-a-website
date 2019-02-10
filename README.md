@@ -41,9 +41,9 @@ This project was written by [Wesley Chen][wesley] - VP External, [Triton Softwar
 
 Thanks to Lucas Occhino of [International Health Collective (IHC)][ihc] for connecting [TSE][tse] to Mar Vista High School, where we can do good work. :)
 
-[wesley]: github.com/wes-chen
+[wesley]: https://github.com/wes-chen
 
-[tse]: github.com/tritonse
+[tse]: https://github.com/tritonse
 
 [ihc]: https://www.internationalhealthcollective.org/
 
