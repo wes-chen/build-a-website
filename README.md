@@ -17,8 +17,8 @@ The next ten weeks will cover basic fundamentals of HTML, CSS, and maybe Javascr
 2.  Github Desktop
 3.  HTML Basics
 4.  CSS Styling
-5.  Make a front page
-6.  Add Bootstrap
+5.  Add Bootstrap
+6.  Make a front page
 7.  Add JavaScript
 8.  Make a nav-bar
 9.  Add pages to your website
