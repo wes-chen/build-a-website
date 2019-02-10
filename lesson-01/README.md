@@ -73,3 +73,5 @@ Next time, we will explore what Github Desktop is and how we will use it.
 One of the first steps of being a legit programmer is making a Github account.
 
 **TODO** show some screenshots of how to make a github account
+
+https://guides.github.com/activities/hello-world/
