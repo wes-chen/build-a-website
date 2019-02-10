@@ -17,7 +17,7 @@ The next ten weeks will cover basic fundamentals of HTML, CSS, and maybe Javascr
 ### Weekly Plan
 
 1.  Welcome, Setup, Github Accounts
-2.  Github Desktop
+2.  Github Desktop, Github Pages
 3.  HTML Basics
 4.  CSS Styling
 5.  Add Bootstrap
