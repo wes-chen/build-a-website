@@ -10,6 +10,7 @@ You will learn how use Github, and will make your very own website.
 
 -   Introductions
 -   Why are you here?
+-   Google is your friend
 -   What is git?
 -   What is Github?
 -   What is Github Desktop?
@@ -22,12 +23,18 @@ You will learn how use Github, and will make your very own website.
 Hi! My name is Wesley Chen, and I am a sophomore majoring in Computer Engineering at UCSD. I am also minoring in Music.
 
 Interests:
-    _ Computer
-    _ Music
-    _ Swimming
-    _ Sleep
-    _ Community Service
-    _ Dota 2 (autochess is fun), brawl stars sometimes
+
+-   Computer
+-   Music
+-   Swimming
+-   Sleep
+-   Community Service
+-   Dota 2 (autochess is fun), brawl stars sometimes
+
+Why you should believe what I say:
+
+-   I was also in high school three years ago
+-   I'm cool
 
 If you have any suggestions, please open a pull request on this repo and make it better ;)
 
@@ -37,10 +44,34 @@ The goal of this program is to give you some insight into what it's like to be a
 
 You'll learn how to make your very own website, which you can put on your college resume.
 
-Having web development skills is quite important these days as our society transitions to heavily rely on the internet. [Instagram](instagram.com), [Facebook](facebook.com), [Twitter](twitter.com) are all website that you probably use on a daily basis - people made those!
+Having web development skills is quite important these days as our society transitions to heavily rely on the internet. [Instagram](https://instagram.com), [Facebook](https://facebook.com), [Twitter](https://twitter.com) are all websites that you probably use on a daily basis - people made those!
+
+## Google is your friend
+
+Any good programmer knows how to use Google. If you have a problem, you should ask the internet first. _Most_ of the time it is right. If you don't know, ask Google!
 
 ## Git
 
-> if you are a programmer, you should know what git is.
+> if you are a programmer, you should know what Git is.
+>
+>  — <cite>Wesley Chen, 2019</cite>
 
-Wesley Chen, 2019
+You use Google Drive to store documents on the cloud. Programmers use Git to store their code on the cloud.
+
+[This guide](https://guides.github.com/introduction/git-handbook/) is pretty good at explaining what Git is. Read it, then read my bad explanation of it.
+
+**TODO** some simplified git explanation for high schoolers here
+
+## Github
+
+[Github](https://github.com) is a website that helps us developers store and manage our code. [Google search results](http://lmgtfy.com/?q=what+is+github) can give us more insight into what Github is. Some features that Github have make it really easy for us to do cool things, like [contribute without knowing command line](https://desktop.github.com/) or [have our own website hosted online for free](https://pages.github.com/)!
+
+## Github Desktop
+
+Next time, we will explore what Github Desktop is and how we will use it.
+
+## Task: Make a Github account!
+
+One of the first steps of being a legit programmer is making a Github account.
+
+**TODO** show some screenshots of how to make a github account
