@@ -72,12 +72,12 @@ Next time, we will explore what [Github Desktop](https://desktop.github.com) is 
 
 One of the first steps of being a legit programmer is making a Github account.
 
-look here at the  ![sign-up page](https://github.com/wes-chen/build-a-website/blob/master/lesson-01/github-sign-up.png)
+![sign-up page](https://github.com/wes-chen/build-a-website/blob/master/lesson-01/github-sign-up.png)
 
 Steps:
 1.  Go to [github.com](https://github.com).
 2.  Sign up for an account.
-3.  Think about your username! It will probably stay with you forever, and companies will see it when they are hiring you.
+3.  Think about your username! It will probably stay with you forever, and companies will see it when they are hiring you. So while _xxxBigBallerMoneySwagMasterxxx_ is a cool username, it probably won't reflect well in front of employers.
 4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/).
 5.  Congratulations! You've made your first repository!
 
