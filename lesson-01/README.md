@@ -32,7 +32,7 @@ Interests:
 
 Why you should believe what I say:
 
--   I was also in high school three years ago
+-   I was also in high school two years ago
 
 If you have any suggestions, please open a pull request on this repo and make it better ;)
 
