@@ -29,12 +29,10 @@ Interests:
 -   Swimming
 -   Sleep
 -   Community Service
--   Dota 2 (autochess is fun), brawl stars sometimes
 
 Why you should believe what I say:
 
 -   I was also in high school three years ago
--   I'm cool
 
 If you have any suggestions, please open a pull request on this repo and make it better ;)
 
