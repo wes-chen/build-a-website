@@ -54,7 +54,7 @@ Any good programmer knows how to use Google. If you have a problem, you should a
 >
 >  — <cite>Wesley Chen, 2019</cite>
 
-You use Google Drive to store documents on the cloud. Programmers use Git to store their code on the cloud.
+You use Google Drive to store and view documents on the cloud. Programmers use Git and Github to store and view their code on the cloud.
 
 [This guide](https://guides.github.com/introduction/git-handbook/) is pretty good at explaining what Git is. Read it, then read my bad explanation of it.
 
@@ -73,7 +73,7 @@ Next time, we will explore what [Github Desktop](https://desktop.github.com) is 
 One of the first steps of being a legit programmer is making a Github account.
 
 Steps:
-1\. Go to [github.com](https://github.com).
+1. Go to [github.com](https://github.com).
 
 2.  Sign up for an account.
 3.  Think about your username! It will probably stay with you forever, and companies will see it when they are hiring you.
