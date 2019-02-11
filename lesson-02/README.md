@@ -57,3 +57,8 @@ If you weren't here last week, no worries! [Here](https://github.com/wes-chen/bu
 ![Github Desktop Login](https://github.com/wes-chen/build-a-website/blob/master/lesson-02/github-desktop-first-screen.png)
 
 Sign into Github Desktop with your user credentials.
+
+2.  Clone your repository from the cloud.
+3.  Make a few edits!
+4.  Commit your changes to git.
+5.  Push your changes to the repository.
