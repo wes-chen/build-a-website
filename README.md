@@ -1,4 +1,13 @@
 # build-a-website
+jandfjsdnafjnsdjifnk;
+asdfudsa;jnasdofias
+fndsaoina'sdofn'dsajf
+pisdanf
+aisdn
+fipsamv
+aisnv'janv
+ivn
+apsin
 
 This repository holds the syllabus and lesson plans for Mar Vista HS "build a website" course.
 This is a work in progress as I am writing this from scratch.
