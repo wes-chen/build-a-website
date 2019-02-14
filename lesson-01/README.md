@@ -1,4 +1,4 @@
-# Welcome, Setup, Github Accounts
+))))# Welcome, Setup, Github Accounts
 
 Welcome! This week we will talk about what we plan to do over the course of the next few weeks and some logistics.
 
