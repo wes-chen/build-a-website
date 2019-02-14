@@ -49,4 +49,4 @@ Thanks to Lucas Occhino of [International Health Collective (IHC)][ihc] for conn
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPL](https://choosealicense.com/licenses/gpl-3.0/)
