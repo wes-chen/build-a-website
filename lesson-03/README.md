@@ -1,3 +1,25 @@
 # HTML Basics
 
-This page will have content soon.
+## What is HTML?
+
+HTML stands for Hypertext Markup Language. It is the basic structure of every website on the internet.
+
+## How do I learn it?
+
+[Codecademy](https://www.codecademy.com/learn) does a pretty good job of teaching HTML. Run through [this HTML tutorial](https://www.codecademy.com/learn/learn-html), then come back.
+
+## Essential Elements
+
+### <p>
+
+This is your bread and butter element.
+
+### <a>
+
+### <img>
+
+### <button>
+
+## Challenge!
+
+Let's make a website page using HTML and host it on our Github pages.
