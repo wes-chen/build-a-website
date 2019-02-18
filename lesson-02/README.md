@@ -60,10 +60,13 @@ Sign into Github Desktop with your user credentials.
 
 2.  Clone your repository from the cloud.
 
+Select a repository to clone from Github. In this case it should be your hello-world repository that you made last week.
 ![Github Desktop Clone Step 1](https://github.com/wes-chen/build-a-website/blob/master/lesson-02/github-desktop-no-repos.png)
 
+Clone your repository into your local machine wherever you want to store your files.
 ![Github Desktop Clone Step 2](https://github.com/wes-chen/build-a-website/blob/master/lesson-02/github-desktop-clone-a-repo.png)
 
+Congrats! You've successfully cloned your repository from the cloud.
 ![Github Desktop Clone Step 3](https://github.com/wes-chen/build-a-website/blob/master/lesson-02/github-desktop-repo-view.png)
 
 3.  Make a few edits!
