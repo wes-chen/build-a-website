@@ -62,3 +62,9 @@ Sign into Github Desktop with your user credentials.
 3.  Make a few edits!
 4.  Commit your changes to git.
 5.  Push your changes to the repository.
+
+## Github Pages
+
+Github has a cool feature where you can host your own website! All you need to do is create a repository named [your username here].github.io and it'll automatically host your website at [your username].github.io. Isn't that cool?
+
+TODO add info about Github Pages
