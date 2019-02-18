@@ -59,7 +59,16 @@ If you weren't here last week, no worries! [Here](https://github.com/wes-chen/bu
 Sign into Github Desktop with your user credentials.
 
 2.  Clone your repository from the cloud.
+
+![Github Desktop Clone Step 1](https://github.com/wes-chen/build-a-website/blob/master/lesson-02/github-desktop-no-repos.png)
+
+![Github Desktop Clone Step 2](https://github.com/wes-chen/build-a-website/blob/master/lesson-02/github-desktop-clone-a-repo.png)
+
+![Github Desktop Clone Step 3](https://github.com/wes-chen/build-a-website/blob/master/lesson-02/github-desktop-repo-view.png)
+
 3.  Make a few edits!
+
+
 4.  Commit your changes to git.
 5.  Push your changes to the repository.
 
