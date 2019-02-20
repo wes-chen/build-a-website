@@ -80,3 +80,7 @@ Congrats! You've successfully cloned your repository from the cloud.
 Github has a cool feature where you can host your own website! All you need to do is create a repository named [your username here].github.io and it'll automatically host your website at [your username].github.io. Isn't that cool?
 
 TODO add info about Github Pages
+
+## Next Time
+
+Next time, we learn about HTML. If you are a proactive student, please run through this [codecademy tutorial](https://www.codecademy.com/learn/learn-html) at your own pace before the next lesson.
