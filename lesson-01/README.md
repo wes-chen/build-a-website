@@ -58,7 +58,7 @@ You use Google Drive to store and view documents on the cloud. Programmers use G
 
 [This guide](https://guides.github.com/introduction/git-handbook/) is pretty good at explaining what Git is. Read it, then read my bad explanation of it.
 
-Basically, Git is a system that keeps a history of any changes to files - it can help you determine exactly *what* files changed, *when* they were changed, *who* changed them, and the reasons *why* they were changed.
+Basically, Git is a system that keeps a history of any changes to files - it can help you determine exactly _what_ files changed, _when_ they were changed, _who_ changed them, and the reasons _why_ they were changed.
 
 Git can be useful when keeping track of collaborative work. For example: when multiple people are working on a project, the collaborators can report their progress by creating their own personal branch to make any update or changes (e.g. adding code to a file or adding a new picture inside a folder), taking a "snapshot" of their changes, then asking to have this "snapshot" of their changes added to the main branch.
 
@@ -77,23 +77,17 @@ Below are some examples of basic commands:
 
 A repository named `[folder_name]` will be created and will become your working directory (i.e. folder that holds your project)! Now, any changes you make can be committed into its history.
 
-
-
 > Clone an existing project repository from somewhere online.
 
 `git clone [git_link]`
 
 This will download the latest "snapshot" from that online repository and become a working directory for you.
 
-
-
 > View the status of your currrent working directory.
 
 `git status`
 
 This will print some basic information, including the files you have changed, and any changes ready to be "snapshotted" into history.
-
-
 
 There are a bunch of stuff to understand about Git (which can be learned through the handbook above), but the basic flow of using Git in a personal project goes something like this:
 
@@ -103,7 +97,7 @@ There are a bunch of stuff to understand about Git (which can be learned through
 
 Here is a picture if it helps:
 
-![local workflow](https://github.com/wes-chen/build-a-website/blob/update/gitExplanation/lesson-01/gitLocalWorkflow.png)
+![local workflow](/lesson-01/gitLocalWorkflow.png)
 
 If you still are confused (even after reading the handbook), don't forget that Google is your friend - feel free to ask it anything you need help with!
 
