@@ -58,7 +58,54 @@ You use Google Drive to store and view documents on the cloud. Programmers use G
 
 [This guide](https://guides.github.com/introduction/git-handbook/) is pretty good at explaining what Git is. Read it, then read my bad explanation of it.
 
-**TODO** some simplified git explanation for high schoolers here
+Basically, Git is a system that keeps a history of any changes to files - it can help you determine exactly *what* files changed, *when* they were changed, *who* changed them, and the reasons *why* they were changed.
+
+Git can be useful when keeping track of collaborative work. For example: when multiple people are working on a project, the collaborators can report their progress by creating their own personal branch to make any update or changes (e.g. adding code to a file or adding a new picture inside a folder), taking a "snapshot" of their changes, then asking to have this "snapshot" of their changes added to the main branch.
+
+There are a bunch of uses for Git, such as:
+
+-   Viewing the history of the entire project
+-   Adding or modifying files
+-   Creating your own branch to work on
+-   Merging your own branch into the main branch
+
+Below are some examples of basic commands:
+
+> Create your own project repository from scratch.
+
+`git init [folder_name]`
+
+A repository named `[folder_name]` will be created and will become your working directory (i.e. folder that holds your project)! Now, any changes you make can be committed into its history.
+
+
+
+> Clone an existing project repository from somewhere online.
+
+`git clone [git_link]`
+
+This will download the latest "snapshot" from that online repository and become a working directory for you.
+
+
+
+> View the status of your currrent working directory.
+
+`git status`
+
+This will print some basic information, including the files you have changed, and any changes ready to be "snapshotted" into history.
+
+
+
+There are a bunch of stuff to understand about Git (which can be learned through the handbook above), but the basic flow of using Git in a personal project goes something like this:
+
+1.  You make any changes you want to your working directory (whether you checked-out a branch or not - just anywhere in the project directory).
+2.  Once you are satisfied with those changes, you can stage them to the staging area. In other words, this is where you take those "snapshots" of the changes then add it to an temporary "changes" area before you actually add it to your history of changes. To stage everything in your working directory, you would type the following in the terminal: `git add *`.
+3.  Once you are satisfied with all "snapshots" in your staging area, you can commit them, which takes these "snapshots" and permanently stores them to your local Git directory. In other words, your changes are now part of the project history and in the future, you can always check what changes you have made at this point. To commit everything in your staging area, you would type the following in the terminal: `git commit -m [message]`. Inside `[message]`, you can type why you decided to make these changes (honestly just type anything).
+
+Here is a picture if it helps:
+
+![local workflow](https://github.com/wes-chen/build-a-website/blob/update/gitExplanation/lesson-01/gitLocalWorkflow.png)
+
+If you still are confused (even after reading the handbook), don't forget that Google is your friend - feel free to ask it anything you need help with!
 
 ## Github
 
