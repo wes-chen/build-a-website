@@ -102,9 +102,8 @@ There are a bunch of stuff to understand about Git (which can be learned through
 3.  Once you are satisfied with all "snapshots" in your staging area, you can commit them, which takes these "snapshots" and permanently stores them to your local Git directory. In other words, your changes are now part of the project history and in the future, you can always check what changes you have made at this point. To commit everything in your staging area, you would type the following in the terminal: `git commit -m [message]`. Inside `[message]`, you can type why you decided to make these changes (honestly just type anything).
 
 Here is a picture if it helps:
-https://github.com/wes-chen/build-a-website/blob/feat/gitExplanation/lesson-01/gitLocalWorkflow.png
 
-wesley i don't know how to make this picture work
+![local workflow](https://github.com/wes-chen/build-a-website/blob/update/gitExplanation/lesson-01/gitLocalWorkflow.png)
 
 If you still are confused (even after reading the handbook), don't forget that Google is your friend - feel free to ask it anything you need help with!
 
