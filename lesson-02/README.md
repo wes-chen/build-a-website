@@ -71,6 +71,11 @@ Congrats! You've successfully cloned your repository from the cloud.
 
 3.  Make a few edits!
 
+![Editing my files original](/lesson-02/text-editor-original-text.png)
+This is what I originally have in my README.
+
+![Editing my files edited](/lesson-02/text-editor-edited-text.png)
+I've edited my text!
 
 4.  Commit your changes to git.
 5.  Push your changes to the repository.
