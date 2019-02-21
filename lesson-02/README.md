@@ -78,7 +78,20 @@ This is what I originally have in my README.
 I've edited my text!
 
 4.  Commit your changes to git.
+
+![Github Desktop Commit](/lesson-02/github-desktop-view-changes.png)
+Remember to write a meaningful [commit message](https://chris.beams.io/posts/git-commit/).
+
 5.  Push your changes to the repository.
+
+![Github Desktop Ready to Push](/lesson-02/github-desktop-ready-to-push.png)
+Now that I've committed something, I'm ready to push to the internet!
+
+![Github Desktop Pushed](/lesson-02/github-desktop-pushed.png)
+I've pushed!
+
+![See changes on Github](/lesson-02/github-my-changed-repo.png)
+And now I can see my changes reflected on github.
 
 ## Github Pages
 
