@@ -42,6 +42,8 @@ Pushing your changes to the **internet** (Github)
 git push origin [branch-name]
 ```
 
+![Git Workflow](/lesson-02/gitLocalWorkflow.png)
+
 ### Github Desktop to the rescue!
 
 Fortunately, you don't have to learn this terminal stuff until you get to college.
