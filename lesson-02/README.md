@@ -99,6 +99,12 @@ And now I can see my changes reflected on github.
 
 Github has a cool feature where you can host your own website! All you need to do is create a repository named [your username here].github.io and it'll automatically host your website at [your username].github.io. Isn't that cool?
 
+[This tutorial](https://www.thinkful.com/learn/a-guide-to-using-github-pages/) runs through the basic workflow of using Github Pages. However, instead of the terminal stuff, follow these steps:
+
+1.  asd;fkja;dsklfj
+2.  asdfajds;fadsfj
+3.  TODO 
+
 TODO add info about Github Pages
 
 ## Next Time
