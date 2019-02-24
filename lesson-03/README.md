@@ -14,11 +14,9 @@ HTML stands for Hypertext Markup Language. It is the basic structure of every we
 
 This is your bread and butter element.
 
-### <a>
+### <a href="/">anchor tag</a>
 
-### <img>
-
-### <button>
+### <button>button</button>
 
 ## Challenge!
 
