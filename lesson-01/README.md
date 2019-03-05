@@ -105,7 +105,7 @@ If you still are confused (even after reading the handbook), don't forget that G
 
 ## Github Desktop
 
-Next time, we will explore what [Github Desktop](https://desktop.github.com) is and how we will use it.
+Next time, we will explore what [Github Desktop](https://desktop.github.com) is and how we will use it. Github Desktop is an application that allows us to use Git without needing a command line interface.
 
 ## Task: Make a Github account!
 
