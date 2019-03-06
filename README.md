@@ -23,8 +23,8 @@ The next ten weeks will cover basic fundamentals of HTML, CSS, and maybe Javascr
 5.  Add Bootstrap
 6.  Make a front page
 7.  Add JavaScript
-8.  Make a nav-bar
-9.  Add pages to your website
+8.  Add pages to your website
+9.  Make a nav-bar
 10. Embed stuff
 11. Project: Make a your own professional website!
 12. Conclusion
