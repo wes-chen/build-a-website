@@ -1,3 +1,3 @@
-# Add pages to your website
+# Make a navbar
 
-This page will have content soon
+This page will have content soon.
