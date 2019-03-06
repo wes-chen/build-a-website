@@ -34,6 +34,10 @@ Why you should believe what I say:
 
 -   I was also in high school two years ago
 
+## What is Triton Software Engineering?
+
+TODO
+
 ## Why are you here?
 
 The goal of this program is to give you some insight into what it's like to be a software programmer. Maybe you'll get inspired and become a CTO of some company worth billions of dollars (if so, please hook me up with a job).
