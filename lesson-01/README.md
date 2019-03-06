@@ -54,7 +54,7 @@ Any good programmer knows how to use Google. If you have a problem, you should a
 
 You use Google Drive to store and view documents on the cloud. Programmers use Git and Github to store and view their code on the cloud.
 
-[This guide](https://guides.github.com/introduction/git-handbook/) is pretty good at explaining what Git is. Read it, then read my bad explanation of it.
+[This guide](https://guides.github.com/introduction/git-handbook/) is pretty good at explaining what Git is. Read it, then we'll summarize the essentials again here.
 
 Basically, Git is a system that keeps a history of any changes to files - it can help you determine exactly _what_ files changed, _when_ they were changed, _who_ changed them, and the reasons _why_ they were changed.
 
