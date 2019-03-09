@@ -8,7 +8,7 @@ You will learn how use Github, and will make your very own website.
 
 ## What are we doing today?
 
--   Introductions
+-   [Introductions](/#introductions)
 -   Why are you here?
 -   Google is your friend
 -   What is git?
