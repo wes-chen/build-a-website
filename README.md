@@ -5,7 +5,7 @@ This is still a work in progress.
 
 [![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website)
 [![license](https://img.shields.io/github/license/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ## Syllabus
 
