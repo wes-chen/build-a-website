@@ -1,10 +1,10 @@
+<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+
 # Github Desktop, Github Pages
 
 GitHub is the largest code host on the planet with over 11.9 million repositories. Git is a distributed revision control and source code management (SCM) system with an emphasis on speed.
 
 Gaining an understanding of its features opens to developers a new and liberating approach to source code management. The surest path to mastering Git is to immerse oneself in its utilities and operations, to experience it first-hand.
-
-
 
 ## What are we doing today?
 
@@ -109,7 +109,7 @@ Github has a cool feature where you can host your own website! All you need to d
 
 1.  asd;fkja;dsklfj
 2.  asdfajds;fadsfj
-3.  TODO 
+3.  TODO
 
 TODO add info about Github Pages
 
