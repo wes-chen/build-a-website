@@ -11,11 +11,11 @@ You will learn how use Github, and will make your very own website.
 -   [Introductions](https://wes-chen.github.io/build-a-website/lesson-01/#introductions)
 -   [What is Triton Software Engineering?](https://wes-chen.github.io/build-a-website/lesson-01/#what-is-triton-software-engineering)
 -   [Why are you here?](https://wes-chen.github.io/build-a-website/lesson-01/#why-are-you-here)
--   [Google is your friend](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#google-is-your-friend)
--   [What is git?](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#git)
--   [What is Github?](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#github)
--   [What is Github Desktop?](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#github-desktop)
--   [Task: Make your own github accounts!](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#task-make-a-github-account)
+-   [Google is your friend](https://wes-chen.github.io/build-a-website/lesson-01/#google-is-your-friend)
+-   [What is git?](https://wes-chen.github.io/build-a-website/lesson-01/#git)
+-   [What is Github?](https://wes-chen.github.io/build-a-website/lesson-01/#github)
+-   [What is Github Desktop?](https://wes-chen.github.io/build-a-website/lesson-01/#github-desktop)
+-   [Task: Make your own github accounts!](https://wes-chen.github.io/build-a-website/lesson-01/#task-make-a-github-account)
 
 ## Introductions
 
