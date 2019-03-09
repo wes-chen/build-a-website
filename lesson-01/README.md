@@ -93,7 +93,7 @@ A repository named `[folder_name]` will be created and will become your working 
 
 This will download the latest "snapshot" from that online repository and become a working directory for you.
 
-> View the status of your currrent working directory.
+> View the status of your current working directory.
 
 `git status`
 
@@ -107,7 +107,7 @@ There are a bunch of stuff to understand about Git (which can be learned through
 
 Here is a picture if it helps:
 
-![local workflow](/lesson-01/gitLocalWorkflow.png)
+![local workflow](https://github.com/wes-chen/build-a-website/blob/master/lesson-01/gitLocalWorkflow.png)
 
 If you still are confused (even after reading the handbook), don't forget that Google is your friend - feel free to ask it anything you need help with!
 
@@ -123,7 +123,7 @@ Next time, we will explore what [Github Desktop](https://desktop.github.com) is 
 
 One of the first steps of being a legit programmer is making a Github account.
 
-![sign-up page](/lesson-01/github-sign-up.png)
+![sign-up page](https://github.com/wes-chen/build-a-website/blob/master/lesson-01/github-sign-up.png)
 
 Steps:
 1.  Go to [github.com](https://github.com).
