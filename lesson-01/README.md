@@ -8,13 +8,14 @@ You will learn how use Github, and will make your very own website.
 
 ## What are we doing today?
 
--   [Introductions](/#introductions)
--   Why are you here?
--   Google is your friend
--   What is git?
--   What is Github?
--   What is Github Desktop?
--   Task: Make your own github accounts.
+-   [Introductions](https://wes-chen.github.io/build-a-website/lesson-01/#introductions)
+-   [What is Triton Software Engineering?](https://wes-chen.github.io/build-a-website/lesson-01/#what-is-triton-software-engineering)
+-   [Why are you here?](https://wes-chen.github.io/build-a-website/lesson-01/#why-are-you-here)
+-   [Google is your friend](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#google-is-your-friend)
+-   [What is git?](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#git)
+-   [What is Github?](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#github)
+-   [What is Github Desktop?](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#github-desktop)
+-   [Task: Make your own github accounts!](https://github.com/wes-chen/build-a-website/tree/master/lesson-01#task-make-a-github-account)
 
 ## Introductions
 
@@ -107,7 +108,7 @@ There are a bunch of stuff to understand about Git (which can be learned through
 
 Here is a picture if it helps:
 
-![local workflow](https://github.com/wes-chen/build-a-website/blob/master/lesson-01/gitLocalWorkflow.png)
+![local workflow](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-01/gitLocalWorkflow.png)
 
 If you still are confused (even after reading the handbook), don't forget that Google is your friend - feel free to ask it anything you need help with!
 
