@@ -1,4 +1,4 @@
-<a href="https://wes-chen.github.io/build-a-website/">Return to build-a-website main</a>
+<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
 
 # Welcome, Setup, Github Accounts
 
