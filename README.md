@@ -16,18 +16,18 @@ The next ten weeks will cover basic fundamentals of HTML, CSS, and maybe Javascr
 
 ### Weekly Plan
 
-1.  Welcome, Setup, Github Accounts
-2.  Github Desktop, Github Pages
-3.  HTML Basics
-4.  CSS Styling
-5.  Add Bootstrap
-6.  Make a front page
-7.  Add JavaScript
-8.  Add pages to your website
-9.  Make a nav-bar
-10. Embed stuff
-11. Project: Make a your own professional website!
-12. Conclusion
+1.  [Welcome, Setup, Github Accounts](https://wes-chen.github.io/build-a-website/lesson-01/)
+2.  [Github Desktop, Github Pages](https://wes-chen.github.io/build-a-website/lesson-02/)
+3.  [HTML Basics](https://wes-chen.github.io/build-a-website/lesson-03/)
+4.  [CSS Styling](https://wes-chen.github.io/build-a-website/lesson-04/)
+5.  [Add Bootstrap](https://wes-chen.github.io/build-a-website/lesson-05/)
+6.  [Make a front page](https://wes-chen.github.io/build-a-website/lesson-06/)
+7.  [Add JavaScript](https://wes-chen.github.io/build-a-website/lesson-07/)
+8.  [Add pages to your website](https://wes-chen.github.io/build-a-website/lesson-08/)
+9.  [Make a nav-bar](https://wes-chen.github.io/build-a-website/lesson-09/)
+10. [Embed stuff](https://wes-chen.github.io/build-a-website/lesson-10/)
+11. [Project: Make a your own professional website!](https://wes-chen.github.io/build-a-website/lesson-11/)
+12. [Conclusion](https://wes-chen.github.io/build-a-website/lesson-12/)
 
 By the end of the course, you should have a working website that you can proudly show off to your friends (and flex on them).
 
