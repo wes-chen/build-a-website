@@ -123,7 +123,7 @@ Next time, we will explore what [Github Desktop](https://desktop.github.com) is 
 
 One of the first steps of being a legit programmer is making a Github account.
 
-![sign-up page](https://github.com/wes-chen/build-a-website/blob/master/lesson-01/github-sign-up.png)
+![sign-up page](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-01/github-sign-up.png)
 
 Steps:
 1.  Go to [github.com](https://github.com).
