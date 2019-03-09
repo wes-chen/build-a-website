@@ -1,3 +1,5 @@
+<a href="https://wes-chen.github.io/build-a-website/lesson-01/#introductions">Return to course home</a>
+
 # Welcome, Setup, Github Accounts
 
 Welcome! This week we will talk about what we plan to do over the course of the next few weeks and some logistics.
@@ -127,8 +129,8 @@ One of the first steps of being a legit programmer is making a Github account.
 ![sign-up page](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-01/github-sign-up.png)
 
 Steps:
-1.  Go to [github.com](https://github.com).
-2.  Sign up for an account.
-3.  Think about your username! If you want to show off your work, colleges will see your github username attached to it. So while _xxxBigBallerMoneySwagMasterxxx_ is a cool username, it probably won't reflect well in front of the college admissions staff. Fortunately, you can change it afterwards in your settings.
-4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/) to make your very first repository!
-5.  Congratulations! You're one step closer to becoming a developer!
+1\.  Go to [github.com](https://github.com).
+2\.  Sign up for an account.
+3\.  Think about your username! If you want to show off your work, colleges will see your github username attached to it. So while _xxxBigBallerMoneySwagMasterxxx_ is a cool username, it probably won't reflect well in front of the college admissions staff. Fortunately, you can change it afterwards in your settings.
+4\.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/) to make your very first repository!
+5\.  Congratulations! You're one step closer to becoming a developer!
