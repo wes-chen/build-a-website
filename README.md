@@ -1,10 +1,11 @@
 # build-a-website
 
 This repository holds the syllabus and lesson plans for Mar Vista HS "build a website" course.
-This is a work in progress as I am writing this from scratch.
+This is still a work in progress.
 
-![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)
-![license](https://img.shields.io/github/license/wes-chen/build-a-website.svg?style=flat)
+[![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website)
+[![license](https://img.shields.io/github/license/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Syllabus
 
@@ -12,7 +13,7 @@ This is a course that will take place over 12 weeks.
 
 The first two weeks will deal making your own Github account, with Github Desktop, and Github Pages.
 
-The next ten weeks will cover basic fundamentals of HTML, CSS, and maybe Javascript (TBD).
+The next ten weeks will cover basic fundamentals of HTML, CSS, and a little Javascript.
 
 ### Weekly Plan
 
