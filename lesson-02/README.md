@@ -138,7 +138,7 @@ Github has a cool feature where you can host your own website! All you need to d
  </tr>
 </table>
 <br>
-10.  Go to http://your-username.github.com to see your website! ( Make sure to use your own username in the link. )
+10.  Go to http://<your-username>.github.com to see your website! ( Make sure to use your own username in the link. Here is an example of what you should expect to see: https://danielehuang.github.io )
 <br>
 <br>
 
