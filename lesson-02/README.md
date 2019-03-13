@@ -121,23 +121,23 @@ Github has a cool feature where you can host your own website! All you need to d
  </tr>
  <tr>
     <td>6. Open GitHub Desktop and clone the repo. </td>
-    <td>6. In the repo click <b>Create new file</b>.</td>
+    <td>6. In the repo click "<b>Create new file</b>".</td>
  </tr>
     
  <tr>
-    <td>7. In a text editor type <b>Hello World</b>.</td>
-    <td>7. In the file editor type <b>Hello World</b>. </td>
+    <td>7. In a text editor type "<b>Hello World</b>".</td>
+    <td>7. In the file editor type "<b>Hello World</b>". </td>
  </tr>
  <tr>
-    <td>8. Save the file as <b>index.html</b> inside the repo folder.</td>
-    <td>8. Name the file as <b>index.hhtml</b> </td>
+    <td>8. Save the file as "<b>index.html</b>" inside the repo folder.</td>
+    <td>8. Name the file as "<b>index.html</b>" </td>
  </tr>
  <tr>
     <td>9. On GitHub Desktop commit the changes and push them to the remote repo.</td>
     <td>9. Click <b>Commit new file</b></td>
  </tr>
  <tfoot> 
-     <tr><td colspan='2' style="text-align:center">Go to <b>http://your-username.github.io</b>  </td>
+     <tr><td colspan='2' style="text-align:center">Go to "<b>http://your-username.github.io</b>"  </td>
     </tr> 
  </tfoot>
 </table>
