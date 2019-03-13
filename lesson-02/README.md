@@ -108,10 +108,15 @@ Github has a cool feature where you can host your own website! All you need to d
 [This tutorial](https://www.thinkful.com/learn/a-guide-to-using-github-pages/) runs through the basic workflow of using Github Pages. However, instead of the terminal stuff, follow these steps:
 
 1.  [Make a new repo](https://github.com/new)
-2.  For repository name enter: `username.github.io` ( Ex: if your username is danHuang then your repo name would be `danHuang.github.io`).
+2.  For repository name enter: `username.github.io` ( Ex: if your username is `danHuang` then your repo name would be `danHuang.github.io`).
 3.  Make the repository public.
 4.  Check `Initialize the repository with a README`.
 5.  Click `Create Repository`. ( If the button is grayed out please make sure the form has been filled out. )
+
+### GitHub Desktop Workflow
+6.  Open GitHub
+
+### No GitHub Desktop Workflow
 
 **Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
 - At Step1: Click `Starting from scratch`
