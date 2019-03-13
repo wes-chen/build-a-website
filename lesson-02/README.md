@@ -113,6 +113,17 @@ Github has a cool feature where you can host your own website! All you need to d
 4.  Check `Initialize the repository with a README`.
 5.  Click `Create Repository`. ( If the button is grayed out please make sure the form has been filled out. )
 
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 ### GitHub Desktop Workflow
 6.  Open GitHub
 
