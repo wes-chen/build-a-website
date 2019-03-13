@@ -121,7 +121,7 @@ Github has a cool feature where you can host your own website! All you need to d
  </tr>
  <tr>
     <td width="50%">6. Open GitHub Desktop and clone the repo. </td>
-    <td>6. In the repo click "<b>Create new file</b>".</td>
+    <td>6. In the repo click <b>Create new file</b>.</td>
  </tr>
     
  <tr>
