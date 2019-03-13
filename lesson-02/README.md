@@ -109,7 +109,9 @@ Github has a cool feature where you can host your own website! All you need to d
 
 1.  TODO
 
-TODO add info about Github Pages
+**Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
+- Click "Starting from scratch"
+- Click "User Pages"
 
 ## Next Time
 
