@@ -137,8 +137,10 @@ Github has a cool feature where you can host your own website! All you need to d
     <td>9. Click <b>Commit new file</b></td>
  </tr>
 </table>
+<br>
 10.  Go to http://your-username.github.com to see your website!
-
+<br>
+<br>
 
 **Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
 - At Step1: Click `Starting from scratch`
