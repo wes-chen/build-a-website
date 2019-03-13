@@ -1,3 +1,5 @@
-# Make a navbar
+<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
 
-This page will have content soon.
+# Add pages to your website
+
+This page will have content soon
