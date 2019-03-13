@@ -117,11 +117,24 @@ Github has a cool feature where you can host your own website! All you need to d
 <table border="0">
  <tr>
     <td><b style="font-size:30px">GitHub Desktop Workflow</b></td>
-    <td><b style="font-size:30px">No GitHub Desktop Workflow</b></td>
+    <td><b style="font-size:30px">Alternative Workflow</b></td>
  </tr>
  <tr>
-    <td></td>
-    <td>Lorem ipsum ...</td>
+    <td>6. Open GitHub Desktop and clone the repo. </td>
+    <td>6. </td>
+ </tr>
+    
+ <tr>
+    <td>7. In a text editor type <i>Hello World</i>.</td>
+ </tr>
+ <tr>
+    <td>8. Save the file as <i>index.html</i> inside the repo folder.</td>
+ </tr>
+ <tr>
+    <td>9. On GitHub Desktop commit the changes and push them to the remote repo.</td>
+ </tr>
+ <tr>
+    <td>10. Go to <b>http://<your-username>.github.io</b> </td>
  </tr>
 </table>
 
