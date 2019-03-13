@@ -142,6 +142,7 @@ Github has a cool feature where you can host your own website! All you need to d
 <br>
 11.  You are done!
 <br>
+<br>
 
 **Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
 - At Step1: Click `Starting from scratch`
