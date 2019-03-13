@@ -116,18 +116,15 @@ Github has a cool feature where you can host your own website! All you need to d
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">GitHub Desktop Workflow</b></td>
+    <td><b style="font-size:30px">No GitHub Desktop Workflow</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td></td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
-### GitHub Desktop Workflow
-6.  Open GitHub
 
-### No GitHub Desktop Workflow
 
 **Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
 - At Step1: Click `Starting from scratch`
