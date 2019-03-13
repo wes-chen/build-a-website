@@ -107,9 +107,46 @@ Github has a cool feature where you can host your own website! All you need to d
 
 [This tutorial](https://www.thinkful.com/learn/a-guide-to-using-github-pages/) runs through the basic workflow of using Github Pages. However, instead of the terminal stuff, follow these steps:
 
-1.  TODO
+1.  [Make a new repo](https://github.com/new)
+2.  For repository name enter: `username.github.io` ( Ex: if your username is `danHuang` then your repo name would be `danHuang.github.io`).
+3.  Make the repository public.
+4.  Check `Initialize the repository with a README`.
+5.  Click `Create Repository`. ( If the button is grayed out please make sure the form has been filled out. )
 
-TODO add info about Github Pages
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">GitHub Desktop Workflow</b></td>
+    <td><b style="font-size:30px">Alternative Workflow</b></td>
+ </tr>
+ <tr>
+    <td width="50%">6. Open GitHub Desktop and clone the repo. </td>
+    <td>6. In the repo click <b>Create new file</b>.</td>
+ </tr>
+    
+ <tr>
+    <td>7. In a text editor type "<b>Hello World</b>".</td>
+    <td>7. In the file editor type "<b>Hello World</b>". </td>
+ </tr>
+ <tr>
+    <td>8. Save the file as "<b>index.html</b>" inside the repo folder.</td>
+    <td>8. Name the file as "<b>index.html</b>" </td>
+ </tr>
+ <tr>
+ <td>9. On GitHub Desktop <b>commit</b> the changes and <b>push</b> them to the remote repo.</td>
+    <td>9. Click <b>Commit new file</b></td>
+ </tr>
+</table>
+<br>
+10.  Go to http://[your-username].github.com to see your website! ( Make sure to use your own username in the link. Here is an example of what you should expect to see: https://danielehuang.github.io )
+<br>
+11.  You are done!
+<br>
+<br>
+
+**Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
+- At Step1: Click `Starting from scratch`
+- At Step2: Click `User Pages`
 
 ## Next Time
 
