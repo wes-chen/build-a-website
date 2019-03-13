@@ -120,7 +120,7 @@ Github has a cool feature where you can host your own website! All you need to d
     <td><b style="font-size:30px">Alternative Workflow</b></td>
  </tr>
  <tr>
-    <td>6. Open GitHub Desktop and clone the repo. </td>
+    <td width="50%">6. Open GitHub Desktop and clone the repo. </td>
     <td>6. In the repo click "<b>Create new file</b>".</td>
  </tr>
     
