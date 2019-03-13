@@ -140,6 +140,7 @@ Github has a cool feature where you can host your own website! All you need to d
 <br>
 10.  Go to http://[your-username].github.com to see your website! ( Make sure to use your own username in the link. Here is an example of what you should expect to see: https://danielehuang.github.io )
 <br>
+11.  You are done!
 <br>
 
 **Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
