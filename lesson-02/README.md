@@ -136,11 +136,8 @@ Github has a cool feature where you can host your own website! All you need to d
  <td>9. On GitHub Desktop <b>commit</b> the changes and <b>push</b> them to the remote repo.</td>
     <td>9. Click <b>Commit new file</b></td>
  </tr>
- <tfoot> 
-     <tr><td colspan='2' style="text-align:center">Go to "<b>http://your-username.github.io</b>"  </td>
-    </tr> 
- </tfoot>
 </table>
+10.  Go to http://your-username.github.com to see your website!
 
 
 **Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
