@@ -133,7 +133,7 @@ Github has a cool feature where you can host your own website! All you need to d
     <td>8. Name the file as "<b>index.html</b>" </td>
  </tr>
  <tr>
-    <td>9. On GitHub Desktop commit the changes and push them to the remote repo.</td>
+ <td>9. On GitHub Desktop <b>commit</b> the changes and <b>push</b> them to the remote repo.</td>
     <td>9. Click <b>Commit new file</b></td>
  </tr>
  <tfoot> 
