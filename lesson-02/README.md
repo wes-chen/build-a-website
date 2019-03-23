@@ -113,7 +113,6 @@ Github has a cool feature where you can host your own website! All you need to d
 4.  Check `Initialize the repository with a README`.
 5.  Click `Create Repository`. ( If the button is grayed out please make sure the form has been filled out. )
 
-
 <table border="0">
  <tr>
     <td><b style="font-size:30px">GitHub Desktop Workflow</b></td>
@@ -123,7 +122,7 @@ Github has a cool feature where you can host your own website! All you need to d
     <td width="50%">6. Open GitHub Desktop and clone the repo. </td>
     <td>6. In the repo click <b>Create new file</b>.</td>
  </tr>
-    
+
  <tr>
     <td>7. In a text editor type "<b>Hello World</b>".</td>
     <td>7. In the file editor type "<b>Hello World</b>". </td>
@@ -138,15 +137,16 @@ Github has a cool feature where you can host your own website! All you need to d
  </tr>
 </table>
 <br>
-10.  Go to http://[your-username].github.com to see your website! ( Make sure to use your own username in the link. Here is an example of what you should expect to see: https://danielehuang.github.io )
+10.  Go to http://[your-username].github.com to see your website! ( Make sure to use your own username in the link. [Here](https://wes-chen.github.io/build-a-website/lesson-02/example.html) is an example of what you should expect to see.)
 <br>
 11.  You are done!
 <br>
 <br>
 
 **Note:** If you want to go through the tutorial yourself here are the steps after opening the link:
-- At Step1: Click `Starting from scratch`
-- At Step2: Click `User Pages`
+
+-   At Step1: Click `Starting from scratch`
+-   At Step2: Click `User Pages`
 
 ## Next Time
 
