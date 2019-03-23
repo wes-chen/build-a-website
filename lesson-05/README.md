@@ -15,3 +15,25 @@ Today we will be learning about Bootstrap, and how to incorporate it into our ow
 -   Add consistency to design and code between projects and between developers
 -   Quickly and easily prototype new designs
 -   Ensure cross-browser compatibility
+
+It is a lot easier to use Bootstrap's components to build a website rather than have to write all the CSS of your website yourself.
+
+Bootstrap's [Get Started Page](https://getbootstrap.com/docs/4.3/getting-started/introduction/) seems a little daunting already, but we'll only be focusing on using their prebuilt components that don't require any JavaScript.
+
+## Core Concepts
+
+### The Grid
+
+[The grid](https://getbootstrap.com/docs/3.4/examples/grid/) is one of the most crucial concepts in using Bootstrap. Basically, you can divide a row into 12 "subunits" that you can combine to divide things evenly. You can divide your row in half, or in thirds, or in quarters with ease.
+
+### Using Bootstrap components
+
+Basically, we will use classnames to call our bootstrap components very easily.
+
+### Overriding Bootstrap
+
+TODO
+
+## Challenge: Add Bootstrap to your own website!
+
+TODO
