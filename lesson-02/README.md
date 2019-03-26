@@ -154,3 +154,5 @@ Github has a cool feature where you can host your own website! All you need to d
 ## Next Time
 
 Next time, we learn about HTML. If you are a proactive student, please run through this [codecademy tutorial](https://www.codecademy.com/learn/learn-html) at your own pace before the next lesson.
+
+<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
