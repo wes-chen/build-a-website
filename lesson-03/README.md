@@ -22,6 +22,6 @@ This is your bread and butter element.
 
 ## Challenge!
 
-Let's make a website page using HTML and host it on our Github pages.
+Let's make a website page using HTML and host it with Github Pages repository!
 
-TODO make a sample website
+[Here](https://wes-chen.github.io/build-a-website/lesson-03/sample.html) is an example of things you could put on your website!
