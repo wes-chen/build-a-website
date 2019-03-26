@@ -38,9 +38,12 @@ Pull requests are welcome :)
 
 ## Authors and acknowledgment
 
-This project was written by [Wesley Chen][wesley] - VP External, [Triton Software Engineering (TSE)][tse]
+This project is managed by [Wesley Chen][wesley] - VP External, [Triton Software Engineering (TSE)][tse]
 
-Special thanks to [Benson Budiman][benson] and [Dan Huang][dan] for writing some sections of this project.
+Authors:
+[Benson Budiman][benson]
+[Wesley Chen][wesley]
+[Daniele Huang][dan]
 
 Thanks to Lucas Occhino of [International Health Collective (IHC)][ihc] for connecting [TSE][tse] to Mar Vista High School, where we can do good work. :)
 
