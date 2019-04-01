@@ -18,6 +18,8 @@ Every HTML element is comprised of:
 - Content: the information contained betwen the opening and closing tags.
 - Closing tag: the second HTML tag that contains the element name, surrounded by ` </ ` and `>`.
 
+![triad](element.png?raw=true "triad")
+
 ## Essential Elements
 
 ### <p>
