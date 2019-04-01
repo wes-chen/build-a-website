@@ -14,21 +14,30 @@ Learning HTML is the first step in creating websites, combined with JavaScript a
 
 ### Anatomy
 Every HTML element is comprised of:
-- Opening tag: the first HTML tag that contains the element name, surrounded by an opening ` < ` and closing ` > ` angle brackets.
+- Opening tag: the first HTML tag that contains the element name, surrounded by ` < ` and ` > `.
 - Content: the information contained betwen the opening and closing tags.
 - Closing tag: the second HTML tag that contains the element name, surrounded by ` </ ` and `>`.
 
 ![triad](element.png?raw=true "triad")
 
-## Essential Elements
 
-### <p>
+### Essential Elements
 
-This is your bread and butter element.
+### <body>  ... </body>
+  
+As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
+
+### <p> Hello! </p>
+
+`p` stands for "paragraph" and will be your bread and butter element. 
 
 ### <a href="/">anchor tag</a>
 
-### <button>button</button>
+`a` stands for "anchor" it used to redirect the user to other locations in the same or other web pages.
+
+### <button> click me! </button>
+
+As the name suggests, this element creates a clickable button.
 
 ## Challenge!
 
