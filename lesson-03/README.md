@@ -27,17 +27,25 @@ Every HTML element is comprised of:
   
 As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
 
+
+
 - **&lt;p&gt; Hello! &lt;/p&gt;**
 
 `p` stands for "paragraph" and will be your bread and butter element. 
+
+
 
 - **&lt;a href="/"&gt; link &lt;/a&gt;**
 
 `a` stands for "anchor" it used to redirect the user to other locations in the same or other web pages.
 
+
+
 - **&lt;button&gt; Click me! &lt;/button&gt;**
 
 As the name suggests, this element creates a clickable button.
+
+
 
 ## Challenge!
 
