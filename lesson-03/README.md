@@ -6,7 +6,7 @@
 
 HTML stands for Hypertext Markup Language. It is the basic structure of every website on the internet.
 
-## How do I learn it?
+![triad](lesson-03/wwwtriad.png?raw=true "triad")
 
 [Codecademy](https://www.codecademy.com/learn) does a pretty good job of teaching HTML. Run through [this HTML tutorial](https://www.codecademy.com/learn/learn-html), then come back.
 
