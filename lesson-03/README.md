@@ -25,12 +25,12 @@ Every HTML element is comprised of:
 
 
 
-**`<body>  ... </body>`** <br/>
+- **&lt;body&gt;  ... &lt;/body&gt;** <br/>
 As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
 
 <br/>
 <br/>
-**`<p> Hello World! </p>`** <br/>
+- **&lt;p&gt; Hello World! &lt;/p&gt;** <br/>
 `p` stands for "paragraph" and will be your bread and butter element. 
 
 <br/>
