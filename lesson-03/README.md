@@ -30,7 +30,7 @@ As the name suggests, this is the key HTML element that contains all the other e
 
 <br/>
 <br/>
-**`<p> Hello World! </p>`**<br/>
+**`<p> Hello World! </p>`** <br/>
 `p` stands for "paragraph" and will be your bread and butter element. 
 
 <br/>
