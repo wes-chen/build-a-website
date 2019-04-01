@@ -27,18 +27,28 @@ Every HTML element is comprised of:
 
 **`<body>  ... </body>`** <br/>
 As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
+
 <br/>
 <br/>
 **`<p> Hello World! </p>`**<br/>
 `p` stands for "paragraph" and will be your bread and butter element. 
+
+<br/>
+<br/>
+
+**`<h_> Heading <\h_>`** <br/>
+`h_` is a heading element, replace `_` with a number between 1 and 7 to chooset the size of the heading. 
+
 <br/>
 <br/>
 **`<a href="/"> Link </a>`**<br/>
-`a` stands for "anchor" it used to redirect the user to another location in the same or other web pages.
+`a` stands for "anchor" it is used to redirect the user to another location in the same or other web pages.
+
 <br/>
 <br/>
 **`<button>Click Me!</button>`**<br/>
 As the name suggests, this element creates a clickable button.
+
 <br/>
 <br/>
 ## Challenge!
