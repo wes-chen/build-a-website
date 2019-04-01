@@ -25,7 +25,7 @@ Every HTML element is comprised of:
 
 
 
-`<body>  ... </body>`
+**`<body>  ... </body>`**
   
 As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
 <br/>
