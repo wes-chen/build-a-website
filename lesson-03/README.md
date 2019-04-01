@@ -23,11 +23,13 @@ Every HTML element is comprised of:
 
 ### Essential Elements
 
-#### &lt;body&gt;  ... &lt;/body&gt; 
+<div style="border-style: solid;border-width: 1px; border-color: black;"/> 
+
+**&lt;body&gt;  ... &lt;/body&gt;**
   
 As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
-<br/>
-<br/>
+
+</div>
 - **&lt;p&gt; Hello! &lt;/p&gt;**
 
 `p` stands for "paragraph" and will be your bread and butter element. 
