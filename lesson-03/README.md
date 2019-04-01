@@ -25,7 +25,7 @@ Every HTML element is comprised of:
 
 
 
-- **&lt;body&gt;  ... &lt;/body&gt;**
+`&lt;body&gt;  ... &lt;/body&gt;`
   
 As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
 <br/>
@@ -37,7 +37,7 @@ As the name suggests, this is the key HTML element that contains all the other e
 <br/>
 - **&lt;a href="/"&gt; link &lt;/a&gt;**
 
-`a` stands for "anchor" it used to redirect the user to other locations in the same or other web pages.
+`a` stands for "anchor" it used to redirect the user to another location in the same or other web pages.
 <br/>
 <br/>
 - **&lt;button&gt; Click me! &lt;/button&gt;**
