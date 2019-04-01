@@ -14,9 +14,9 @@ Learning HTML is the first step in creating websites, combined with JavaScript a
 
 ### Anatomy
 Every HTML element is comprised of:
-- Opening tag: contains the element name, surrounded by opening ` < ` and closing ` > `.
-- Content
-- Closing tag
+- Opening tag: the first HTML tag that contains the element name, surrounded by an opening ` < ` and closing ` > ` angle brackets.
+- Content: the information contained betwen the opening and closing tags.
+- Closing tag: the second HTML tag that contains the element name, surrounded by ` </ ` and `>`.
 
 ## Essential Elements
 
