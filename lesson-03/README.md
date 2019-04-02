@@ -52,7 +52,7 @@ Ex:<br/>
  &nbsp;&nbsp;&lt;li&gt; This &lt;/li&gt;<br/>
  &nbsp;&nbsp;&lt;li&gt; is &lt;/li&gt;<br/>
  &nbsp;&nbsp;&lt;li&gt; an &lt;/li&gt;<br/>
- &nbsp;&nbsp;&lt;li&gt; unordered &lt;/li&gt;<br/>
+ &nbsp;&nbsp;&lt;li&gt; ordered &lt;/li&gt;<br/>
  &nbsp;&nbsp;&lt;li&gt; list. &lt;/li&gt;<br/>
 &lt;/ol&gt;<br/>
 
@@ -70,16 +70,16 @@ As the name suggests, this element is used to create table elements. <br/>
 Ex:<br/>
 &lt;table&gt; <br/>
  &nbsp;&nbsp;&lt;tr&gt; <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&lt;th&gt; Table Heading1 &lt;th&gt;<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&lt;th&gt; Table Heading2 &lt;th&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;th&gt; Table Heading1 &lt;/th&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;th&gt; Table Heading2 &lt;/th&gt;<br/>
  &nbsp;&nbsp;&lt;/tr&gt;<br/>
  &nbsp;&nbsp;&lt;tr&gt; <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data1 &lt;td&gt;<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data2 &lt;td&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data1 &lt;/td&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data2 &lt;/td&gt;<br/>
  &nbsp;&nbsp;&lt;/tr&gt;<br/>
  &nbsp;&nbsp;&lt;tr&gt; <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data1 &lt;td&gt;<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data2 &lt;td&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data1 &lt;/td&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data2 &lt;/td&gt;<br/>
  &nbsp;&nbsp;&lt;/tr&gt;<br/>
 &lt;/table&gt;<br/>
 
@@ -118,6 +118,7 @@ Ex: <br />
 <br/>
 
 ![boiler_plage](metadata.png?raw=true "metadata")
+
 ## Challenge!
 
 Let's make a website page using HTML and host it with Github Pages repository!
