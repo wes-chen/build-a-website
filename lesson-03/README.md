@@ -42,7 +42,7 @@ As the name suggests, this element creates a clickable button.
 `br` stands for "line break", this element adds a new line after the previous element. (Its functionality is similar to the "Enter" key on the keyboard ).
 
 - **&lt;div/&gt; ... &lt;/div&gt;** <br/>
-`div` tag defines a division or a section in an HTML document. The `div` element is often used as a container for other HTML elements to style them with CSS or to perform certain tasks with JavaScript. 
+`div` stands for "division" (or section) in an HTML document. The `div` element is often used as a container for other HTML elements to style them with CSS or to perform certain tasks with JavaScript. 
 
 ### Slightly more complex Elements
 
