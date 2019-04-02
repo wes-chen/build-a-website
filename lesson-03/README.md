@@ -85,7 +85,7 @@ Ex:<br/>
 
 Output: <br/>
 
-![triad](table.png?raw=true "triad")
+![triad](table.png?raw=true "table")
 
 **SO MANY TAGS!!** Let's examine them one by one:
   - `tr` stands for table row, this is used to add a row to the table, this element contains all the data in each row
@@ -98,14 +98,26 @@ Professional HTML files have much more than just a body element containing the d
 ### Hierarchy
 - `<!DOCTYPE html>` this is the first line of code inside a HTML file, it tells the browser that the file should be interpreted as a HTML file.
 
-- The `html` tag is the great-great-great-...-grandparent of all HTML elements and it's the **outermost** element in a HTML file. This is used to tell the browser that the contents inside the tags are proper HTML elements.
+- The `html` element is the great-great-great-...-grandparent of all HTML elements and it's the **outermost** element in a HTML file. This is used to tell the browser that the contents inside the tags are proper HTML elements.
 
-- The `head` tag contains the metadata we mentioned before. Anything inside the `head` tag will not be displayed on the web page. This tag should be inside the `html` tag and outside the `body` tag.
+- The `head` element contains the metadata we mentioned before. Anything inside the `head` tag will not be displayed on the web page. This tag should be inside the `html` tag and outside the `body` tag.
 
-- The `body` tag contains all the other elements that you want to display on the web page. This tag should be inside the `html` tag and outside the `head` tag.
+- The `body` element contains all the other elements that you want to display on the web page. This tag should be inside the `html` tag and outside the `head` tag.
+
+Ex:<br/>
+![boiler_plage](broiler.png?raw=true "boiler plate")
 
 ### Metadata
+The following HTML metadata elements should be declared inside the **`head`** element.
+- The `title` element defines the title of the document and also the title displayed on the browser tab.
+- The `style` element defines style information for the HTML page. More on this in the CSS lesson.
+- The `link` element is used to link to external CSS style sheets.
+- The `meta` element is used to specify author, description, and other metadata.
+- The `script` element is used to define client-side JavaScript. More on this in the JavaScript lesson.
+Ex: <br />
+<br/>
 
+![boiler_plage](metadata.png?raw=true "metadata")
 ## Challenge!
 
 Let's make a website page using HTML and host it with Github Pages repository!
