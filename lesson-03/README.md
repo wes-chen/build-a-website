@@ -41,6 +41,9 @@ As the name suggests, this element creates a clickable button.
 - **&lt;br/&gt;** <br>
 `br` stands for "line break", this element adds a new line after the previous element. (Its functionality is similar to the "Enter" key on the keyboard ).
 
+- **&lt;div/&gt; ... &lt;/div&gt;** <br/>
+`div` tag defines a division or a section in an HTML document. The `div` element is often used as a container for other HTML elements to style them with CSS or to perform certain tasks with JavaScript. 
+
 ### Slightly more complex Elements
 
 - **&lt;ul&gt; ... &lt;/ul&gt;    and     &lt;ol&gt; ... &lt;/ol&gt;** <br />
