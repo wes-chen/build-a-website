@@ -26,14 +26,14 @@ Every HTML element is comprised of:
 
 
 - **&lt;body&gt;  ... &lt;/body&gt;** <br/>
-As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
+As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. All the following elements must be declared inside this tag.
 
 
 - **&lt;p&gt; Hello World! &lt;/p&gt;** <br/>
 `p` stands for "paragraph" and will be your bread and butter element. 
 
 - **&lt;h_&gt; Heading &lt;\h_&gt;** <br/>
-`h_` is a heading element, replace `_` with a number between 1 and 7 to chooset the size of the heading. 
+`h_` is a heading element, replace `_` with a number between 1 and 7 to choose the size of the heading. 
 
 - **&lt;a href="/"&gt; Link &lt;/a&gt;** <br/>
 `a` stands for "anchor" it is used to redirect the user to another location in the same or other web pages.
@@ -89,11 +89,16 @@ Ex:<br/>
  &nbsp;&nbsp;&lt;/tr&gt;<br/>
 &lt;/table&gt;<br/>
 
+Output: <br/>
+
+![triad](table.png?raw=true "triad")
+
 **SO MANY TAGS!!** Let's examine them one by one:
   - `tr` stands for table row, this is used to add a row to the table, this element contains all the data in each row
   - `th` stands for table heading, this is used in the first row of each table for the heading, the content is **bold** by default
   - `td` stands for table data, this is used to add data in the table
 
+## How to set up a proper HTML file
 ## Challenge!
 
 Let's make a website page using HTML and host it with Github Pages repository!
