@@ -23,12 +23,6 @@ Every HTML element is comprised of:
 
 ### Essential Elements
 
-
-
-- **&lt;body&gt;  ... &lt;/body&gt;** <br/>
-As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. All the following elements must be declared inside this tag.
-
-
 - **&lt;p&gt; Hello World! &lt;/p&gt;** <br/>
 `p` stands for "paragraph" and will be your bread and butter element. 
 
@@ -99,6 +93,19 @@ Output: <br/>
   - `td` stands for table data, this is used to add data in the table
 
 ## How to set up a proper HTML file
+Professional HTML files have much more than just a body element containing the different HTML elements, they have an element hierarchy and most important of all they contain **metadata** (data about data) that tells the browser how to display your web page. 
+
+### Hierarchy
+- `<!DOCTYPE html>` this is the first line of code inside a HTML file, it tells the browser that the file should be interpreted as a HTML file.
+
+- The `html` tag is the great-great-great-...-grandparent of all HTML elements and it's the **outermost** element in a HTML file. This is used to tell the browser that the contents inside the tags are proper HTML elements.
+
+- The `head` tag contains the metadata we mentioned before. Anything inside the `head` tag will not be displayed on the web page. This tag should be inside the `html` tag and outside the `body` tag.
+
+- The `body` tag contains all the other elements that you want to display on the web page. This tag should be inside the `html` tag and outside the `head` tag.
+
+### Metadata
+
 ## Challenge!
 
 Let's make a website page using HTML and host it with Github Pages repository!
