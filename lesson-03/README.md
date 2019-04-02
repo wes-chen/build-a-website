@@ -124,7 +124,9 @@ Ex: <br />
 
 ## Challenge!
 
-Here is a really simple HTML page, try making an exact replica! ( Extra cookie points: try enclosing sections of the page inside `div` containers, you will find it useful later on ).
+Here is a really simple HTML page, try making an exact replica! 
+
+( Extra cookie points: try enclosing sections of the page inside `div` containers, you will find it useful later on ).
 
 ![solution](solution.png?raw=true "solution")
 
@@ -138,6 +140,9 @@ Spec file: [Link](brown_bear.png).
 [Codecademy](https://www.codecademy.com/learn) does a pretty good job of teaching HTML. Run through [this HTML tutorial](https://www.codecademy.com/learn/learn-html) to learn more.
 
 ## Next Time
-Next time, we learn about CSS. If you are a proactive student, please run through this [codecademy tutorial] (https://www.codecademy.com/learn/learn-css) at your own pace before the next lesson.
+
+Next time, we learn about CSS. If you are a proactive student, please run through this [codecademy tutorial](https://www.codecademy.com/learn/learn-css) at your own pace before the next lesson.
 
 Thanks for coming, see you next week!
+
+<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
