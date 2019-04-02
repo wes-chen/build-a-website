@@ -25,25 +25,75 @@ Every HTML element is comprised of:
 
 
 
-- **&lt;body&gt;  ... &lt;/body&gt;** 
+- **&lt;body&gt;  ... &lt;/body&gt;** <br/>
 As the name suggests, this is the key HTML element that contains all the other elements that you want to display on the web page. 
 
 
-- **&lt;p&gt; Hello World! &lt;/p&gt;** 
+- **&lt;p&gt; Hello World! &lt;/p&gt;** <br/>
 `p` stands for "paragraph" and will be your bread and butter element. 
 
-**`<h_> Heading <\h_>`** <br/>
+- **&lt;h_&gt; Heading &lt;\h_&gt;** <br/>
 `h_` is a heading element, replace `_` with a number between 1 and 7 to chooset the size of the heading. 
 
-**&lt;a href="/"&gt; Link &lt;/a&gt;**
+- **&lt;a href="/"&gt; Link &lt;/a&gt;** <br/>
 `a` stands for "anchor" it is used to redirect the user to another location in the same or other web pages.
 
-
-**&lt;button&gt;Click Me!&lt;/button&gt;**
+- **&lt;button&gt;Click Me!&lt;/button&gt;** <br/>
 As the name suggests, this element creates a clickable button.
 
+- **&lt; img src="blank"/&gt;** <br />
+`img` stands for "image", this element is used to embed images in the web page. Replace `blank` with the link to the image you want to display. Note how this element comprises of only one tag. The image tag is part of a family of HTML tag exceptions that only require one tag.
+
+- **&lt;br/&gt;** <br>
+`br` stands for "line break", this element adds a new line after the previous element. (Its functionality is similar to the "Enter" key on the keyboard ).
+
+### Slightly more complex Elements
+
+- **&lt;ul&gt; ... &lt;/ul&gt;    and     &lt;ol&gt; ... &lt;/ol&gt;** <br />
+These are HTML list elements. `ul` creates an **unordered** list while `ol` creates an **ordered** list. <br/>
+`li` which stands for "list item", is used to add items to the lists. 
+
+Ex:<br/>
+&lt;ol&gt; <br/>
+ &nbsp;&nbsp;&lt;li&gt; This &lt;/li&gt;<br/>
+ &nbsp;&nbsp;&lt;li&gt; is &lt;/li&gt;<br/>
+ &nbsp;&nbsp;&lt;li&gt; an &lt;/li&gt;<br/>
+ &nbsp;&nbsp;&lt;li&gt; unordered &lt;/li&gt;<br/>
+ &nbsp;&nbsp;&lt;li&gt; list. &lt;/li&gt;<br/>
+&lt;/ol&gt;<br/>
+
+Output:
+1) This
+2) is 
+3) an
+4) ordered
+5) list. 
 <br/>
-<br/>
+
+- **&lt;table&gt; ... &lt;/table&gt;** <br/>
+As the name suggests, this element is used to create table elements. <br/>
+
+Ex:<br/>
+&lt;table&gt; <br/>
+ &nbsp;&nbsp;&lt;tr&gt; <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;th&gt; Table Heading1 &lt;th&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;th&gt; Table Heading2 &lt;th&gt;<br/>
+ &nbsp;&nbsp;&lt;/tr&gt;<br/>
+ &nbsp;&nbsp;&lt;tr&gt; <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data1 &lt;td&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data2 &lt;td&gt;<br/>
+ &nbsp;&nbsp;&lt;/tr&gt;<br/>
+ &nbsp;&nbsp;&lt;tr&gt; <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data1 &lt;td&gt;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; Table Data2 &lt;td&gt;<br/>
+ &nbsp;&nbsp;&lt;/tr&gt;<br/>
+&lt;/table&gt;<br/>
+
+**SO MANY TAGS!!** Let's examine them one by one:
+  - `tr` stands for table row, this is used to add a row to the table, this element contains all the data in each row
+  - `th` stands for table heading, this is used in the first row of each table for the heading, the content is **bold** by default
+  - `td` stands for table data, this is used to add data in the table
+
 ## Challenge!
 
 Let's make a website page using HTML and host it with Github Pages repository!
