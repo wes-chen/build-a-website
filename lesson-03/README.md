@@ -105,7 +105,7 @@ Professional HTML files have much more than just a body element containing the d
 - The `body` element contains all the other elements that you want to display on the web page. This tag should be inside the `html` tag and outside the `head` tag.
 
 Ex:<br/>
-![boiler_plage](broiler.png?raw=true "boiler plate")
+![boiler_plate](broiler.png?raw=true "boiler plate")
 
 ### Metadata
 The following HTML metadata elements should be declared inside the **`head`** element.
@@ -117,12 +117,21 @@ The following HTML metadata elements should be declared inside the **`head`** el
 Ex: <br />
 <br/>
 
-![boiler_plage](metadata.png?raw=true "metadata")
+![metadata](metadata.png?raw=true "metadata")
 
 ## Challenge!
 
-Let's make a website page using HTML and host it with Github Pages repository!
+Here is a really simple HTML page, try making an exact replica!
 
+![solution](solution.png?raw=true "solution")
+
+Raw text: [Link](brown_bear_raw.txt).
+
+Spec file: [Link](brown_bear.png).
+
+## Final Remarks
 [Here](https://wes-chen.github.io/build-a-website/lesson-03/sample.html) is an example of things you could put on your website!
 
-[Codecademy](https://www.codecademy.com/learn) does a pretty good job of teaching HTML. Run through [this HTML tutorial](https://www.codecademy.com/learn/learn-html), then come back.
+[Codecademy](https://www.codecademy.com/learn) does a pretty good job of teaching HTML. Run through [this HTML tutorial](https://www.codecademy.com/learn/learn-html) to learn more.
+
+Thanks for coming!
