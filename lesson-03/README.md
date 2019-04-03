@@ -60,11 +60,16 @@ Ex:<br/>
 &lt;/ol&gt;<br/>
 
 Output:
+
 1) This
+
 2) is 
+
 3) an
+
 4) ordered
 5) list. 
+
 <br/>
 
 - **&lt;table&gt; ... &lt;/table&gt;** <br/>
