@@ -8,7 +8,7 @@ HTML stands for Hypertext Markup Language. HTML describes the basic structure of
 
 ![triad](wwwtriad.png?raw=true "triad")
 
-Learning HTML is the first step in creating websites, combined with JavaScript and CSS you will be able to create esthetically pleasing and functional websites. For now let's focus on how to add basic content on a page, like text and images!
+Learning HTML is the first step in creating websites, combined with JavaScript and CSS you will be able to create aesthetically pleasing and functional websites. For now let's focus on how to add basic content on a page, like text and images!
 
 ## HTML: Basics
 
