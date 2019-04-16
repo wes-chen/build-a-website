@@ -13,7 +13,7 @@ Without good CSS code the website may look weird.
  So now let's go through examples and dive into CSS!
 
 ## CSS: Basics
-### Style elements
+### Style Tags
 Just like html code, like `<h1>title</h1>`, our CSS code is also contained inside a opening tag and a closing tag.
 
 `<style> ...any CSS code you want to write </style>`
@@ -24,7 +24,7 @@ Typically, we put our `<style>...</style>` element inside of the `<head></head>`
 
 But, what does the code inside the `<style>` tags actually mean? So let's talk about the basic syntax of the CSS.
 
-### Syntax
+### The Basic Syntax
 CSS code comprises some basic parts: the selector, the property name, and the value. Let's look at a diagram of it.
 <img src="syntax.png"/>
 <ul>
@@ -37,6 +37,48 @@ It is important that, first, for each line of css code use write, we must put a 
 If your CSS code does not work as intended, for example, the paragraph does not turn red after you set the color to red, it is good to check if you used the syntax correctly.
 
 ### Challenge 1: create your first CSS code
-Make the text inside of h1 tags green.
+Problem: Make the text inside of h1 tags green.
 
-Here is the starter code: <a href="index.html">click<a/>
+Here is the starter code: <a href="index.html">click<a/>. Create a new HTML file on your own computer, copy the code into it, and start messing around with it. 
+ 
+## CSS: Selectors
+In the previous section, we used "p" as the selector, so that every p in the page has a color of red. But what if we don't want every paragraph in the page to be red? In order to change one element specifically and without changing others, we use class or id to write CSS code.
+
+### Select element by classes
+Classes and ids are both like names: you give an element a name you like, and you select this element by this name. First, you give one element a class:
+
+`<div class="content1">This is the content1</div>`
+
+Write the `class=""` inside the first tag of the element. Notice that you need to put the class inside the quotes. 
+
+Then, inside of the `<style>` element, select that class by `.content1`. Notice that here we begin with a dot `.` followed by the class name we just gave to the element we want to select. This is important and necessary.
+
+`.content1 {
+   font-size: 20px;
+ }`
+ 
+### Select element by classes
+ids and class are both similar, but the most important difference, is the idea that `id` should be unique for each element. For example, each of you is an element, and all of you share one common class: `high-school-students`, but each of you have unique names, or at least unique student IDs. In short, `id` is more specific than `class` and you should use it when you just want to change some particular elements.
+
+`<div id="content2">This is the content2/div>`
+
+Write the `id=""` inside the first tag of the element. Notice that you need to put the id inside the quotes. 
+
+Then, inside of the `<style>` element, select that id by `#content1`. Notice that here we begin with a pound `#` followed by the id we just gave to the element we want to select. This step looks similar the what we have for the `class`.
+
+`#content1 {
+   font-size: 20px;
+ }`
+ 
+
+
+
+## CSS: More on Styles
+### Essential Font Styles
+<ul>
+<li>color: This determines the color of the text. By default you can see that the color is set to black. You can enter a wide range of colors, such as red, green, gray and so on.</li>
+<li>font-size: This determines the size of the text</li>
+<li>font-weight: This determines how thick, or heavy, that the text appears on the window.</li>
+</ul>
+
+### 
