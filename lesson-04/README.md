@@ -92,9 +92,10 @@ In HTML, different elemtents are like boxes that are piled vertically.
 
 When you write text inside these elements, you have probably seen that there are actually whitespace around the text, so that if you put one element next to another element, there are some spaces between the texts of each element. The whitespace is due to two properties that each element have: `margin`, and `padding`:
 <ul>
-<li>margin: This determines the thickness of the whitespace outside of that element. 
+<li>margin: This determines the space between each elements.
     <img src="margin.png"/>
  
  </li>
+ <li>padding: This determines the space inside of the element, like the space around the text you have written.
+     <img src="padding.png"/><li/>
 </ul>
-### 
