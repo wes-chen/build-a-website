@@ -9,3 +9,5 @@ CSS stands for Cascading Style Sheets. It describes how HTML elements are to be 
 <img src="./css-sucks-webdevelopment-in-a-nutshell-43196018.png"/>
 
  So now let's go through examples and dive into CSS!
+
+## CSS: Two ways
