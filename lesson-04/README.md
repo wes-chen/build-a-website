@@ -4,7 +4,9 @@
 
 ## What is CSS?
 
-CSS stands for Cascading Style Sheets. It describes how HTML elements are to be displayed, and after we create the skeleton for our website using HTML, we write CSS code to make it beautiful. Without good CSS code the website may look weird.
+CSS stands for Cascading Style Sheets. It describes how HTML elements are to be displayed, and after we create the skeleton for our website using HTML, we write CSS code to make it beautiful. 
+
+Without good CSS code the website may look weird.
 
 <img src="./css-sucks-webdevelopment-in-a-nutshell-43196018.png"/>
 
@@ -18,4 +20,8 @@ Just like html code, like `<h1>title</h1>`, our CSS code is also contained insid
 
 Typically, we put our `<style>...</style>` element inside of the `<head></head>` element. By convention, we put anything we want to display like text, paragraphs, and images in the `<body></body>` tag, and we put `<style></style>` in the `<head></head>` element. 
 
-Example: 
+<img src="top.png"/>
+
+But, what does the code inside the `<style>` tags actually mean? So let's talk about the basic syntax of the CSS.
+
+### Syntax
