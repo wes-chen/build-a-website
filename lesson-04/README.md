@@ -25,3 +25,9 @@ Typically, we put our `<style>...</style>` element inside of the `<head></head>`
 But, what does the code inside the `<style>` tags actually mean? So let's talk about the basic syntax of the CSS.
 
 ### Syntax
+CSS code comprises some basic parts: the selector, the property name, and the value. Let's look at a diagram of it.
+<img src="syntax.png"/>
+Each part has a different meaning:
+<ul>
+<li>`p`: This is the <strong>selector</strong> we talked about just now. It means that, we are selecting all the elements with tag `p`. In addition to selecting by the name of the tag, we can also select by id or class, which is covered later in this lesson.</li> 
+</ul>
