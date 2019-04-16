@@ -67,18 +67,26 @@ Write the `id=""` inside the first tag of the element. Notice that you need to p
 Then, inside of the `<style>` element, select that id by `#content1`. Notice that here we begin with a pound `#` followed by the id we just gave to the element we want to select. This step looks similar the what we have for the `class`.
 
 `#content1 {
-   font-size: 20px;
+   font-size: 30px;
  }`
  
+### Challenge 2: use selectors
+1. Go to your file and find these two `div`s inside the `body` tag. Try to give a `class` of `content1` to the first div, and give an `id` of `content2` to the second div. 
 
-
+2. Go to the `style` tags. Make the text in the first div green, and the text in the second div gray. (Hint: use the `color` we just talked before).
+ 
 
 ## CSS: More on Styles
+Since we have learned how to select different elements, it is time to know more about more properties that we can change in order to make our page look nicer. 
+
 ### Essential Font Styles
 <ul>
 <li>color: This determines the color of the text. By default you can see that the color is set to black. You can enter a wide range of colors, such as red, green, gray and so on.</li>
 <li>font-size: This determines the size of the text</li>
 <li>font-weight: This determines how thick, or heavy, that the text appears on the window.</li>
 </ul>
+
+### Essential Positioning
+In HTML, different elemtents are like boxes that are piled vertically
 
 ### 
