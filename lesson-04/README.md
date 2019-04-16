@@ -39,4 +39,4 @@ If your CSS code does not work as intended, for example, the paragraph does not 
 ### Challenge 1: create your first CSS code
 Make the text inside of h1 tags green.
 
-Here is the starter code: <a href="index.html"><a/>
+Here is the starter code: <a href="index.html">click<a/>
