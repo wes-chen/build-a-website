@@ -87,6 +87,14 @@ Since we have learned how to select different elements, it is time to know more 
 </ul>
 
 ### Essential Positioning
-In HTML, different elemtents are like boxes that are piled vertically
+In HTML, different elemtents are like boxes that are piled vertically.
+<img src="boxes.png"/>
 
+When you write text inside these elements, you have probably seen that there are actually whitespace around the text, so that if you put one element next to another element, there are some spaces between the texts of each element. The whitespace is due to two properties that each element have: `margin`, and `padding`:
+<ul>
+<li>margin: This determines the thickness of the whitespace outside of that element. 
+    <img src="margin.png"/>
+ 
+ </li>
+</ul>
 ### 
