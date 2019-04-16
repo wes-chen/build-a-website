@@ -92,10 +92,27 @@ In HTML, different elemtents are like boxes that are piled vertically.
 
 When you write text inside these elements, you have probably seen that there are actually whitespace around the text, so that if you put one element next to another element, there are some spaces between the texts of each element. The whitespace is due to two properties that each element have: `margin`, and `padding`:
 <ul>
-<li>margin: This determines the space between each elements.
+<li>margin: This determines the space between each elements.<br>
     <img src="margin.png"/>
  
  </li>
- <li>padding: This determines the space inside of the element, like the space around the text you have written.
+ <li>padding: This determines the space inside of the element, like the space around the text you have written.<br>
      <img src="padding.png"/><li/>
 </ul>
+
+So, in order to position and size the elements, here are some of the most useful properties that you can write in CSS.
+<ul>
+<li>margin: Ajust the whitespaces around the div. Example: `div{margin: 30px;}`. You can also specify which side of the margin using: margin-top, margin-right, margin-bottom, or margin-left. Example: `div{margin-left: 10px;}` </li>
+<li>padding: Ajust the whitespaces around the div. Example: `div{padding: 30px;}`. Also, you can specify the four directions just like margin.</li>
+<li>width: change the width of the element. Notice that using both `px` and percentage are OK. Example: `div{width: 50px;}`, `div{width: 50%;}`</li>
+<li>height: change the height of the element. Similar to width, both px and percentage are accepted.</li>
+<li>background-color: set the background color of the element</li>
+</ul>
+
+### Challenge 3: Resizing
+1. You decide to have no padding on the first div. Based on the code you've written, select the first div, and set the padding to zero. (Do you remember how to select it by class?)
+2. Set the width of all divs to `150px`.
+3. You decide to have some color. Set the background color of the first div to red.
+
+## External Links
+<a href="https://www.w3schools.com/css/css_font.asp">w3schools CSS Tutorial</a>
