@@ -10,4 +10,12 @@ CSS stands for Cascading Style Sheets. It describes how HTML elements are to be 
 
  So now let's go through examples and dive into CSS!
 
-## CSS: Two ways
+## CSS: Basics
+### Style elements
+Just like html code, like `<h1>title</h1>`, our CSS code is also contained inside a opening tag and a closing tag.
+
+`<style> ...any CSS code you want to write </style>`
+
+Typically, we put our `<style>...</style>` element inside of the `<head></head>` element. By convention, we put anything we want to display like text, paragraphs, and images in the `<body></body>` tag, and we put `<style></style>` in the `<head></head>` element. 
+
+Example: 
