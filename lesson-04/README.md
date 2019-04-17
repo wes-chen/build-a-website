@@ -57,7 +57,7 @@ Then, inside of the `<style>` element, select that class by `.content1`. Notice 
    font-size: 20px;
  }`
  
-### Select element by classes
+### Select element by ids
 ids and class are both similar, but the most important difference, is the idea that `id` should be unique for each element. For example, each of you is an element, and all of you share one common class: `high-school-students`, but each of you have unique names, or at least unique student IDs. In short, `id` is more specific than `class` and you should use it when you just want to change some particular elements.
 
 `<div id="content2">This is the content2/div>`
