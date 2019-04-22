@@ -8,7 +8,7 @@ CSS stands for Cascading Style Sheets. It describes how HTML elements are to be 
 
 Without good CSS code the website may look weird.
 
-![css sucks example](css-sucks-webdevelopment-in-a-nutshell-43196018.png")
+![css sucks example](css-sucks-webdevelopment-in-a-nutshell-43196018.png)
 
  So now let's go through examples and dive into CSS!
 
