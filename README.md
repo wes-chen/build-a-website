@@ -1,7 +1,7 @@
 # build-a-website
 
-This repository holds the syllabus and lesson plans for Mar Vista HS "build a website" course.
-This is still a work in progress.
+This repository holds the syllabus and lesson plans for Mar Vista High School "Build a Website" program.
+This is still a work in progress as some lessons are not complete yet.
 
 [![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website)
 [![license](https://img.shields.io/github/license/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website/blob/master/LICENSE)
@@ -9,13 +9,13 @@ This is still a work in progress.
 
 ## Syllabus
 
-This is a course that will take place over 12 weeks.
+This is a program that will teach you how to create your own website.
 
-The first two weeks will deal with making your own Github account, with Github Desktop, and Github Pages.
+The first two lessons will cover the essentials with Git, Github, Github Desktop, and Github Pages.
 
-The next ten weeks will cover basic fundamentals of HTML, CSS, and a little Javascript.
+The next ten lessons will cover basic fundamentals of HTML, CSS, and a little bit of Javascript. That is all you will need to create your website.
 
-### Weekly Plan
+### Lesson Plan
 
 1.  [Welcome, Setup, Github Accounts](https://wes-chen.github.io/build-a-website/lesson-01/)
 2.  [Github Desktop, Github Pages](https://wes-chen.github.io/build-a-website/lesson-02/)
@@ -30,7 +30,7 @@ The next ten weeks will cover basic fundamentals of HTML, CSS, and a little Java
 11. [Project: Make a your own professional website!](https://wes-chen.github.io/build-a-website/lesson-11/)
 12. [Conclusion](https://wes-chen.github.io/build-a-website/lesson-12/)
 
-By the end of the course, you should have a working website that you can proudly show off to your friends (and flex on them).
+By the end of this program, you will have a working website that you can proudly show off to your friends and family.
 
 ## Contributing
 
@@ -38,17 +38,17 @@ Pull requests are welcome :)
 
 ## Authors and acknowledgment
 
-This project is managed by [Wesley Chen][wesley] - VP External, [Triton Software Engineering (TSE)][tse]
+This project is managed by [Wesley Chen][wesley] - President, [Triton Software Engineering (TSE)][tse].
 
 Authors:
 
-[Benson Budiman][benson]
+[Benson Budiman][benson] - VP Operations, [Triton Software Engineering (TSE)][tse]
 
 [Wesley Chen][wesley]
 
-[Daniele Huang][dan]
+[Daniele Huang][dan] - Project Lead, [Triton Software Engineering (TSE)][tse]
 
-Thanks to Lucas Occhino of [International Health Collective (IHC)][ihc] for connecting [TSE][tse] to Mar Vista High School, where we can do good work. :)
+A special thanks to Lucas Occhino of [International Health Collective (IHC)][ihc] for connecting [TSE][tse] to Mar Vista High School. Because of his excellent communication and help, we are able to provide this service to the school. :-)
 
 [wesley]: https://github.com/wes-chen
 
