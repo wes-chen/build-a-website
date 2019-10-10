@@ -1,6 +1,6 @@
 # build-a-website
 
-This repository holds the syllabus and lesson plans for Mar Vista High SChool "Build a Website" program.
+This repository holds the syllabus and lesson plans for Mar Vista High School "Build a Website" program.
 This is still a work in progress as some lessons are not complete yet.
 
 [![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website)
@@ -13,7 +13,7 @@ This is a program that will teach you how to create your own website.
 
 The first two lessons will cover the essentials with Git, Github, Github Desktop, and Github Pages.
 
-The next ten lessons will cover basic fundamentals of HTML, CSS, and a little bit of Javascript. That is all you will need to creat your website.
+The next ten lessons will cover basic fundamentals of HTML, CSS, and a little bit of Javascript. That is all you will need to create your website.
 
 ### Lesson Plan
 
