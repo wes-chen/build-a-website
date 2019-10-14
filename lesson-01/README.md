@@ -37,6 +37,12 @@ Why you should believe what I say:
 
 -   I was also still in high school two years ago
 
+### Benson Budiman
+
+Hey! My name is Benson Budiman, and I am a Junior majoring in Computer Science at UCSD.
+
+My interests are the same as Wesley's (except I don't swim), and I was also still in high school two years ago.
+
 ## What is Triton Software Engineering?
 
 Triton Software Engineering (TSE) is a multidisciplinary student organization at UC San Diego. We partner with nonprofits to design and develop software (e.g. websites or mobile applications) pro-bono for social good while giving our students practical, real-world experience.
