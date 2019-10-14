@@ -140,7 +140,7 @@ GitHub has a really awesome feature where you can host your own website FOR FREE
 </table>
 <br>
 
-10. Go to <https://[your-username].github.io> to see your website! (Make sure to use your own username in the link) 
+10. Go to <https://[your-username].github.io> to see your website! (Make sure to use your own username in the link)
     <a href="https://wes-chen.github.io/build-a-website/lesson-02/example.html">Here</a> is an example of what you should expect to see.
     <br>
 
@@ -164,8 +164,12 @@ CHALLENGE: Remove the "Hello World!" text from the webpage and replace it with f
    2. Your GitHub username
    3. Your favorite food(s)
    4. Your hobbies
-   
+
 To make sure your changes worked, always check your GitHub Pages website at [your username].github.io.
+
+## Feedback
+
+Thanks for taking time to complete our lesson. Please give us some feedback [here](https://forms.gle/hQVCSWr1Tsj5nouz5) so that we can improve for next time!
 
 ## Next Lesson
 
