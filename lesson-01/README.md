@@ -144,7 +144,7 @@ Steps:
 1.  Go to [github.com](https://github.com).
 2.  Click "Sign up" to create an account. Alternatively, "Sign in" if you already have an account.
 3.  If you are creating a new account, think carefully about your username! If you want to show off your work, then colleges and workplaces will see your GitHub username attached to it. This means while _xxxBigBallerMoneySwagMasterxxx_ is a cool username, it probably will not reflect very well in front of the college admissions staff or to any recruiter. A suggestion for your username is to make it a shortened version of your full name. Fortunately, anyone can change their username afterwards in your settings.
-4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/) to make your own [repository](https://blog.axosoft.com/learning-git-repository/)!
+4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/){:target="_blank"} to make your own [repository](https://blog.axosoft.com/learning-git-repository/)!
 5.  Congratulations! You're one step closer to succeeding in this program and becoming a developer!
 
 <a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
