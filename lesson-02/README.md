@@ -167,10 +167,6 @@ CHALLENGE: Remove the "Hello World!" text from the webpage and replace it with f
 
 To make sure your changes worked, always check your GitHub Pages website at [your username].github.io.
 
-## Feedback
-
-Thanks for taking time to complete our lesson. Please give us some feedback [here](https://forms.gle/hQVCSWr1Tsj5nouz5) so that we can improve for next time!
-
 ## Next Lesson
 
 Next lesson, we learn about the essentials of HTML. HTML provides a skeleton for your webpage so that it will start to have a structure to it. If you are looking to get ahead, please run through this [CodeAcademy tutorial](https://www.codecademy.com/learn/learn-html) at your own pace before the next lesson.
