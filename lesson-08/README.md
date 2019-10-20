@@ -1,5 +1,5 @@
 <a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
 
-# Add pages to your website
+# How to activate Github Pages for other projects
 
-This page will have content soon
+This page will have content soon.

@@ -13,7 +13,9 @@ This is a program that will teach you how to create your own website.
 
 The first two lessons will cover the essentials with Git, Github, Github Desktop, and Github Pages.
 
-The next ten lessons will cover basic fundamentals of HTML, CSS, and a little bit of Javascript. That is all you will need to create your website.
+The next four lessons will cover basic fundamentals of HTML, CSS, and how to host static resources. That is all you will need to create your website.
+
+The final two lessons involve a challenge to make your own professional website and how you can use Github Pages to host other projects you may have.
 
 ### Lesson Plan
 
@@ -22,13 +24,9 @@ The next ten lessons will cover basic fundamentals of HTML, CSS, and a little bi
 3.  [HTML Basics](https://wes-chen.github.io/build-a-website/lesson-03/)
 4.  [CSS Styling](https://wes-chen.github.io/build-a-website/lesson-04/)
 5.  [Add Bootstrap](https://wes-chen.github.io/build-a-website/lesson-05/)
-6.  [Make a front page](https://wes-chen.github.io/build-a-website/lesson-06/)
-7.  [Add JavaScript](https://wes-chen.github.io/build-a-website/lesson-07/)
-8.  [Add pages to your website](https://wes-chen.github.io/build-a-website/lesson-08/)
-9.  [Make a nav-bar](https://wes-chen.github.io/build-a-website/lesson-09/)
-10. [Embed stuff](https://wes-chen.github.io/build-a-website/lesson-10/)
-11. [Project: Make a your own professional website!](https://wes-chen.github.io/build-a-website/lesson-11/)
-12. [Conclusion](https://wes-chen.github.io/build-a-website/lesson-12/)
+6.  [Add Pages and Host Static Files](https://wes-chen.github.io/build-a-website/lesson-06/)
+7.  [Project: Make a your own professional website!](https://wes-chen.github.io/build-a-website/lesson-07/)
+8.  [How to activate Github Pages for other repositories](https://wes-chen.github.io/build-a-website/lesson-08/)
 
 By the end of this program, you will have a working website that you can proudly show off to your friends and family.
 
