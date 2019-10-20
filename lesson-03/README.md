@@ -1,10 +1,18 @@
 <a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
 
+# Install Atom.
+
+We have realized that Notepad is terrible. Let's improve your programming environment by installing Atom.
+
+[Please click here to open the Atom installer.](https://atom.io/){:target="_blank"}
+
+Once we have Atom installed, let's continue learning!
+
 # HTML Basics
 
 ## What is HTML?
 
-HTML stands for Hypertext Markup Language. HTML describes the basic structure of a web page semantically, or in other words it conveys how to render the graphics of a web page to the browser. 
+HTML stands for Hypertext Markup Language. HTML describes the basic structure of a web page semantically, or in other words it conveys how to render the graphics of a web page to the browser.
 
 ![triad](wwwtriad.png?raw=true "triad")
 
@@ -24,10 +32,10 @@ Every HTML element is comprised of:
 ### Essential Elements
 
 - **&lt;p&gt; Hello World! &lt;/p&gt;** <br/>
-`p` stands for "paragraph" and will be your bread and butter element. 
+`p` stands for "paragraph" and will be your bread and butter element.
 
 - **&lt;h_&gt; Heading &lt;\h_&gt;** <br/>
-`h_` is a heading element, replace `_` with a number between 1 and 7 to choose the size of the heading. 
+`h_` is a heading element, replace `_` with a number between 1 and 7 to choose the size of the heading.
 
 - **&lt;a href="/"&gt; Link &lt;/a&gt;** <br/>
 `a` stands for "anchor" it is used to redirect the user to another location in the same or other web pages.
@@ -42,13 +50,13 @@ As the name suggests, this element creates a clickable button.
 `br` stands for "line break", this element adds a new line after the previous element. (Its functionality is similar to the "Enter" key on the keyboard ).
 
 - **&lt;div/&gt; ... &lt;/div&gt;** <br/>
-`div` stands for "division" (or section) in an HTML document. The `div` element is often used as a container for other HTML elements to style them with CSS or to perform certain tasks with JavaScript. 
+`div` stands for "division" (or section) in an HTML document. The `div` element is often used as a container for other HTML elements to style them with CSS or to perform certain tasks with JavaScript.
 
 ### Slightly more complex Elements
 
 - **&lt;ul&gt; ... &lt;/ul&gt;    and     &lt;ol&gt; ... &lt;/ol&gt;** <br />
 These are HTML list elements. `ul` creates an **unordered** list while `ol` creates an **ordered** list. <br/>
-`li` which stands for "list item", is used to add items to the lists. 
+`li` which stands for "list item", is used to add items to the lists.
 
 Ex:<br/>
 &lt;ol&gt; <br/>
@@ -63,13 +71,13 @@ Output:
 
 1) This
 
-2) is 
+2) is
 
 3) an
 
 4) ordered
 
-5) list. 
+5) list.
 
 <br/>
 
@@ -102,7 +110,7 @@ Output: <br/>
   - `td` stands for table data, this is used to add data in the table
 
 ## How to set up a proper HTML file
-Professional HTML files have much more than just a body element containing the different HTML elements, they have an element hierarchy and most important of all they contain **metadata** (data about data) that tells the browser how to display your web page. 
+Professional HTML files have much more than just a body element containing the different HTML elements, they have an element hierarchy and most important of all they contain **metadata** (data about data) that tells the browser how to display your web page.
 
 ### Hierarchy
 - `<!DOCTYPE html>` this is the first line of code inside a HTML file, it tells the browser that the file should be interpreted as a HTML file.
@@ -130,7 +138,7 @@ Ex: <br />
 
 ## Challenge!
 
-Here is a really simple HTML page, try making an exact replica! 
+Here is a really simple HTML page, try making an exact replica!
 
 ( Extra cookie points: try enclosing sections of the page inside `div` containers, you will find it useful later on ).
 
