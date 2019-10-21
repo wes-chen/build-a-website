@@ -11,8 +11,8 @@ This is still a work in progress as some lessons are not complete yet.
 
 We appreciate your feedback. Please answer this quick survey!
 
-<form action="https://forms.gle/GuYzfDvpQSU2Shom8">
-  <input type="submit" value="Lesson 3 & 4 Survey" />
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSc4Bkkxx8DvGdYOtfILlNqn7L8zEsp58wNwqfu2lcg2Ek42KA/viewform?usp=sf_link">
+  <input type="submit" value="Lesson 3 Survey" />
 </form>
 
 ## Syllabus
