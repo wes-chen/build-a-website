@@ -22,7 +22,33 @@ Just like html code, like `<h1>title</h1>`, our CSS code is also contained insid
 
 Typically, we put our `<style>...</style>` element inside of the `<head></head>` element. By convention, we put anything we want to display like text, paragraphs, and images in the `<body></body>` tag, and we put `<style></style>` in the `<head></head>` element.
 
-![top](top.png)
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+   p {
+    color: black;
+   }
+  </style>
+ </head>
+
+ <body>
+  
+  <h1>My First CSS Heading</h1>
+  <p>My first CSS paragraph</p>
+  
+  <div class="content1">
+   This is the content 1.
+  </div>
+  
+  <div class="content2">
+   This is the content 2.
+  </div>
+
+ </body>
+</html>
+```
 
 But, what does the code inside the `<style>` tags actually mean? So let's talk about the basic syntax of the CSS.
 
