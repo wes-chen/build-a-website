@@ -68,11 +68,30 @@ It is important that, first, for each line of css code use write, we must put a 
 
 If your CSS code does not work as intended, for example, the paragraph does not turn red after you set the color to red, it is good to check if you used the syntax correctly.
 
-### Challenge 1: create your first CSS code
+### CHALLENGE 01: Create your first CSS code!
 
-Problem: Make the text inside of h1 tags green.
+Before we start making style changes to your main website, we want to make sure you are familiar with the syntax for CSS.
 
-Here is the [starter code](example.html). Create a new HTML file on your own computer, copy the code into it, and start messing around with it.
+Here is your first task: Given some starter code, make the text inside of `h1` tags green.
+
+To download the starter code, right-click the starter code link below, then select `Save link as...`. Go ahead and download `example.html` anywhere on your computer (BUT NOT INTO YOUR "[username].github.io" REPOSITORY). Once you have downloaded the `example.html`, go ahead and find where it is located, right-click on the file, then select `Open with -> Atom`. You may need to select `Choose another app` to find Atom.
+
+Here is the [starter code](example.html).
+
+Some hints to get you started:
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- Remember to make your styling changes within the `style` HTML tags at the top of the `example.html` file.
+- Once you make your changes, don't forget to SAVE your `example.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
+- In order to check your changes, try double-clicking your `example.html` file to open it in your web browser.
+- Don't forget to use Google to your advantage!
+
+Here is an example of what it should look like:
+
+![challenge01](challenge01.png)
+
+<br/>
+<br/>
+<br/>
 
 ## CSS: Selectors
 
@@ -106,11 +125,34 @@ Then, inside of the `<style>` element, select that id by `#content1`. Notice tha
    font-size: 30px;
  }`
 
-### Challenge 2: use selectors
+### CHALLENGE 02: Use selectors!
 
-1.  Go to your file and find these two `div`s inside the `body` tag. Try to give a `class` of `content1` to the first div, and give an `id` of `content2` to the second div.
+Let's make more changes to styling inside your `example.html` file.
 
-2.  Go to the `style` tags. Make the text in the first div green, and the text in the second div gray. (Hint: use the `color` we just talked before).
+1.  Open up your `example.html` in Atom.
+2.  Find two `div` tags inside a single `body` tag.
+3.  Give a `class` of `content1` to the first `div`.
+4.  Give an `id` of `content2` to the second `div`.
+5.  After you assigned a `class` and an `id`, go to the `style` HTML tags.
+6.  Make the text in the first `div` green.
+7.  Make the text in the second `div` gray.
+
+Some hints to get you started:
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- Remember to make your styling changes within the `style` HTML tags at the top of the `example.html` file.
+- `color` will be the property that you want to use.
+- When making changes within the `style` HTML tags, `.` is for classes, and `#` is for id's.
+- Once you make your changes, don't forget to SAVE your `example.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
+- In order to check your changes, try double-clicking your `example.html` file to open it in your web browser.
+- Don't forget to use Google to your advantage!
+
+Here is an example of what it should look like:
+
+![challenge02](challenge02.png)
+
+<br/>
+<br/>
+<br/>
 
 ## CSS: More on Styles
 
@@ -150,15 +192,61 @@ So, in order to position and size the elements, here are some of the most useful
 
 -   background-color: set the background color of the element
 
-### Challenge 3: Resizing
+### CHALLENGE 03: Resizing!
 
-1.  You decide to have no padding on the first div. Based on the code you've written, select the first div, and set the padding to zero. (Do you remember how to select it by class?)
-2.  Set the width of all divs to `150px`.
-3.  You decide to have some color. Set the background color of the first div to red.
+Here is the final challenge of this lesson. Less hand-holding this time.
+
+1.  You decide to have no `padding` on the first `div` (the `div` that you colored green). Based on the code you have written, select the first `div`, and set its `padding` to zero. (Do you remember how to select a `div` by class?)
+2.  Set the `margin` of all `div`s to `150px`. (Do you remember how to select all `div`s?)
+3.  You decide to have some color to your background. Set the `background-color` of the second `div` to red.
+
+Some hints to get you started:
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- Remember to make your styling changes within the `style` HTML tags at the top of the `example.html` file.
+- When making changes within the `style` HTML tags, `.` is for classes, and `#` is for id's.
+- Once you make your changes, don't forget to SAVE your `example.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
+- In order to check your changes, try double-clicking your `example.html` file to open it in your web browser.
+- Don't forget to use Google to your advantage!
+
+Here is an example of what it should look like:
+
+![challenge03](challenge03.png)
+
+<br/>
+<br/>
+<br/>
+
+### CHALLENGE 04: Bringing it back to your website.
+
+Using your new knowledge of CSS, go ahead and make some changes to your main website by editing your `index.html`! In the previous lesson, we told you to added `div`s and `span`s to your website. Now you can use those `div`s to make some different color texts and to space things apart.
+
+1. Let's add some coloring to your website. Change the color of the `h1` header and the `h2` header to any color of your choice.
+2. Let's center all of our elements to the middle of our screen. First, add a `div` HTML tag around the entirety of your inner-body elements (e.g. starting from `<h1>`, ending at `</table>`). Next, write some CSS code within the `style` HTML tag that would center all the elements within the `div` (this can be done by using `text-align: center;`, `display: inline-block;`, and `width: 100%;`)
+3. It looks like the numbers for the order list and the entire table is still all the way to the left. Let's fix that! There are multiple ways to do this, so we'll leave it up to you to figure it out. Remember, Google is your friend!
+4. Finally, let's add a `background-color` to the entirety of the `body` HTML tag. This color is your choice!
+
+Some hints to get you started:
+- We are now making changes to your website, so this means that you must make changes to `index.html`! This file can be found in your local GitHub repository (`Documents -> GitHub -> [username].github.io`).
+- You may need to set up the HTML hierarchy (e.g. `<html>...</html>`, `<head>...</head>`, `<body>...</body>`, etc.).
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- Remember to make your styling changes within the `style` HTML tags at the top of the `index.html` file.
+- When making changes within the `style` HTML tags, `.` is for classes, and `#` is for id's.
+- Once you make your changes, don't forget to SAVE your `index.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
+- In order to check your local changes, try double-clicking your `index.html` file to open it in your web browser.
+- In order to copy your changes from your computer to your actual website, open up `GitHub Desktop` on your computer, commit those changes, and then push!
+- Don't forget to use Google to your advantage!
+
+Your website should look something like this now:
+
+![challenge04](challenge04.png)
+
+<br/>
+<br/>
+<br/>
 
 ## External Links
 
-Here is the [w3schools CSS Tutorial](https://www.w3schools.com/css/css_font.asp).
+Here is the [w3schools CSS Tutorial](https://www.w3schools.com/css/css_font.asp){:target="_blank"}.
 
 ## Survey time!
 
