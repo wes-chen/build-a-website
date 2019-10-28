@@ -2,6 +2,53 @@
 
 # CSS Basics
 
+## A Quick Recap
+
+We learned about several elements last time, and made a cool website with those elements.
+
+In addition to the elements you used last time, two elements we learned last time that are going to really come in handy this time.
+
+### **&lt;div&gt;**
+
+We use `<div>` tags to divide up our html pages into sections.
+
+`<div>` stands for "division" (or section) in an HTML document. The `<div>` element is often used as a container to hold other HTML elements to style them with CSS or to perform certain tasks with JavaScript. As you will learn later, if we add IDs or classes to our divs, we can style specific sections of our page with CSS without affecting the rest of our page.
+
+### **&lt;span&gt;**
+
+We use the `<span>` tag to divide up text into sections, similar to how we use `<div>` This is useful to style only certain parts of our text.
+
+## Some more HTML elements
+
+### **&lt;head&gt;**
+
+This element was briefly covered in last lesson. When we create HTML documents, we include metadata in our `<head>` element. In this lesson, we will include our CSS inside our `<head>` element.
+
+### **&lt;body&gt;**
+
+The `<body>` element contains the content of our website. Last time, we wrote what we would put in our `<body>` element.
+
+## Task
+
+Let's make our webpages that we made last time into proper HTML documents. Please do the following actions:
+
+1. Add a `<HTML>` tag surrounding the the entirety of your `index.html` file.
+2. Enclose what you wrote last time in a `<body>` tag.
+3. Add `<head> </head>` as the first item in the `<HTML>` tags.
+
+After you finish these tasks, your `index.html` file should look like this:
+```html
+<HTML>
+  <head>
+  </head>
+  <body>
+    ...
+    <!-- your content here -->
+    ...
+  </body>
+</HTML>
+```
+
 ## What is CSS?
 
 CSS stands for Cascading Style Sheets. It describes how HTML elements are to be displayed, and after we create the skeleton for our website using HTML, we write CSS code to make it beautiful.
@@ -34,14 +81,14 @@ Typically, we put our `<style>...</style>` element inside of the `<head></head>`
  </head>
 
  <body>
-  
+
   <h1>My First CSS Heading</h1>
   <p>My first CSS paragraph</p>
-  
+
   <div class="content1">
    This is the content 1.
   </div>
-  
+
   <div class="content2">
    This is the content 2.
   </div>
