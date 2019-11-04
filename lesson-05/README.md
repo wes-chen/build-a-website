@@ -8,7 +8,7 @@ Today we will be learning about Bootstrap, and how to incorporate it into our ow
 
 ## What is Bootstrap?
 
-[Bootstrap](https://getbootstrap.com/) is a popular front-end component library that makes life a lot easier for people who want to make websites. It is a framework, and it can help you in the following ways ([source](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/)):
+[Bootstrap](https://getbootstrap.com/){:target="_blank"} is a popular front-end component library that makes life a lot easier for people who want to make websites. It is a framework, and it can help you in the following ways ([source](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/){:target="_blank"}):
 
 -   Prevent repetition between projects
 -   Utilize responsive design to allow your website to adapt to various screen sizes - mobile, desktop, and everything in between
@@ -18,21 +18,139 @@ Today we will be learning about Bootstrap, and how to incorporate it into our ow
 
 It is a lot easier to use Bootstrap's components to build a website rather than have to write all the CSS of your website yourself.
 
-Bootstrap's [Get Started Page](https://getbootstrap.com/docs/4.3/getting-started/introduction/) seems a little daunting already, but we'll only be focusing on using their prebuilt components that don't require any JavaScript.
+Bootstrap's [Get Started Page](https://getbootstrap.com/docs/4.3/getting-started/introduction/){:target="_blank"} seems a little daunting already, but we'll only be focusing on using their prebuilt components that don't require any JavaScript.
+
+Last time, we made our own CSS styling. Bootstrap has already written some CSS classes for you.
+Most Bootstrap components utilize the `<div>` element.
+
+Bootstrap documentation is our best friend. [Check it out here!](https://getbootstrap.com/docs/4.3/getting-started/introduction/){:target="_blank"}
 
 ## Core Concepts
 
-### The Grid
+### Typography
 
-[The grid](https://getbootstrap.com/docs/3.4/examples/grid/) is one of the most crucial concepts in using Bootstrap. Basically, you can divide a row into 12 "subunits" that you can combine to divide things evenly. You can divide your row in half, or in thirds, or in quarters with ease.
+Bootstrap automatically applies styling on elements that we learned in Lesson 3.
 
-### Using Bootstrap components
+Headings (`<h1>` through `<h6>`) are changed, and we can apply the `display` class to make those heading even larger.
 
-Basically, we will use classnames to call our bootstrap components very easily.
+The `lead` class will make your text element stand out.
 
-### Overriding Bootstrap
+Bootstrap has also defined some inline elements for you to modify your text. These include:
+  - `<mark>` = highlight
+  - `<del>` = deleted text
+  - `<s>` = strikethrough
+  - `<ins>` = added text
+  - `<u>` = underline
+  - `<small>` = fine print
+  - `<strong>` = bold
+  - `<em>` = italicize
 
-TODO
+Check out Bootstrap documentation on typography [here](https://getbootstrap.com/docs/4.3/content/typography/){:target="_blank"}!
+
+### Images, Tables, Figures
+
+Bootstrap also makes your `<img>` and `<table>` elements prettier.
+
+Check out documentation for images [here](https://getbootstrap.com/docs/4.3/content/images/){:target="_blank"}!
+
+Check out documentation for tables [here](https://getbootstrap.com/docs/4.3/content/tables/){:target="_blank"}!
+
+Bootstrap also styles a `<figure>` element. It allows for captions for your images.
+
+Check out documentation for figures [here](https://getbootstrap.com/docs/4.3/content/figures/){:target="_blank"}!
+
+### Bootstrap Components
+
+Bootstrap gives us access to _a lot_ of new components.
+
+Usually we will call these by using `<div>` elements.
+
+For example, for an alert component, we call the `alert` class.
+```HTML
+<div class="alert alert-primary" role="alert">
+  A simple primary alert—check it out!
+</div>
+```
+
+Here is a comprehensive list of components Bootstrap provides, along with links to their documentation:
+  - [Alerts](https://getbootstrap.com/docs/4.3/components/alerts/){:target="_blank"}
+  - [Badges](https://getbootstrap.com/docs/4.3/components/badge/){:target="_blank"}
+  - [Breadcrumbs](https://getbootstrap.com/docs/4.3/components/breadcrumb/){:target="_blank"}
+  - [Buttons](https://getbootstrap.com/docs/4.3/components/buttons/){:target="_blank"}
+  - [Button Groups](https://getbootstrap.com/docs/4.3/components/button-group/){:target="_blank"}
+  - [Cards](https://getbootstrap.com/docs/4.3/components/card/){:target="_blank"}
+  - [Carousels](https://getbootstrap.com/docs/4.3/components/carousel/){:target="_blank"}
+  - [Collapses](https://getbootstrap.com/docs/4.3/components/collapse/){:target="_blank"}
+  - [Dropdowns](https://getbootstrap.com/docs/4.3/components/dropdowns/){:target="_blank"}
+  - [Forms](https://getbootstrap.com/docs/4.3/components/forms/){:target="_blank"}
+  - [Input Groups](https://getbootstrap.com/docs/4.3/components/input-group/){:target="_blank"}
+  - [Jumbotrons](https://getbootstrap.com/docs/4.3/components/jumbotron/){:target="_blank"}
+  - [List Groups](https://getbootstrap.com/docs/4.3/components/list-group/){:target="_blank"}
+  - [Media Objects](https://getbootstrap.com/docs/4.3/components/media-object/){:target="_blank"}
+  - [Modals](https://getbootstrap.com/docs/4.3/components/modal/){:target="_blank"}
+  - [Alerts](https://getbootstrap.com/docs/4.3/components/alerts/){:target="_blank"}
+  - [Navs](https://getbootstrap.com/docs/4.3/components/navs/){:target="_blank"}
+  - [Navbars](https://getbootstrap.com/docs/4.3/components/navbar/){:target="_blank"}
+  - [Popovers](https://getbootstrap.com/docs/4.3/components/popovers/){:target="_blank"}
+  - [Progress Bars](https://getbootstrap.com/docs/4.3/components/progress/){:target="_blank"}
+  - [Spinners](https://getbootstrap.com/docs/4.3/components/spinners/){:target="_blank"}
+  - [Toasts](https://getbootstrap.com/docs/4.3/components/toasts/){:target="_blank"}
+  - [Tooltips](https://getbootstrap.com/docs/4.3/components/tooltips/){:target="_blank"}
+
+### Utilities
+
+You might want to adjust the positioning of your elements, or you may want certain functions that might not have text in them. Bootstrap utilities allow for you to do this.
+
+Call utilities by calling their class, like you would any other CSS element.
+
+Here are utilities that adjust positioning or style of elements:
+- [Borders](https://getbootstrap.com/docs/4.3/utilities/borders/){:target="_blank"}
+- [Clearfix](https://getbootstrap.com/docs/4.3/utilities/clearfix/){:target="_blank"}
+- [Display](https://getbootstrap.com/docs/4.3/utilities/display/){:target="_blank"}
+- [Flex](https://getbootstrap.com/docs/4.3/utilities/flex/){:target="_blank"}
+- [Float](https://getbootstrap.com/docs/4.3/utilities/float/){:target="_blank"}
+- [Overflow](https://getbootstrap.com/docs/4.3/utilities/overflow/){:target="_blank"}
+- [Position](https://getbootstrap.com/docs/4.3/utilities/position/){:target="_blank"}
+- [Shadows](https://getbootstrap.com/docs/4.3/utilities/shadows/){:target="_blank"}
+- [Sizing](https://getbootstrap.com/docs/4.3/utilities/sizing/){:target="_blank"}
+- [Spacing](https://getbootstrap.com/docs/4.3/utilities/spacing/){:target="_blank"}
+- [Text](https://getbootstrap.com/docs/4.3/utilities/text/){:target="_blank"}
+- [Vertical Align](https://getbootstrap.com/docs/4.3/utilities/vertical-align/){:target="_blank"}
+- [Visibility](https://getbootstrap.com/docs/4.3/utilities/visibility/){:target="_blank"}
+
+Here are utilities that might help you add functionality.
+- [Close icon](https://getbootstrap.com/docs/4.3/utilities/close-icon/){:target="_blank"}
+- [Colors](https://getbootstrap.com/docs/4.3/utilities/colors/){:target="_blank"}
+- [Embed](https://getbootstrap.com/docs/4.3/utilities/embed/){:target="_blank"}
+- [Stretched Link](https://getbootstrap.com/docs/4.3/utilities/stretched-link/){:target="_blank"}
+- [Close icon](https://getbootstrap.com/docs/4.3/utilities/close-icon/){:target="_blank"}
+
+
+### Layout and the Grid
+
+[The grid](https://getbootstrap.com/docs/4.3/layout/grid/){:target="_blank"} is one of the most crucial concepts in using Bootstrap. Basically, you can divide a row into 12 "subunits" that you can combine to divide things evenly. You can divide your row in half, or in thirds, or in quarters with ease.
+
+We activate a grid by calling the `container` class. Inside of containers, we will use `<div>` elements with the `row` class. Inside of rows, we will use `<div>` elements with the `col` class.
+
+Here is an example of how we use the grid:
+```html
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+  </div>
+</div>
+```
+
+
+Check out grid documentation [here](https://getbootstrap.com/docs/4.3/layout/grid/){:target="_blank"}!
 
 ## PRE-CHALLENGE #01: Starting fresh.
 
