@@ -53,7 +53,7 @@ We believe that technology should be accessible to the community and especially 
 
 Let us help you help the community.
 
-Check us out [here](http://tse.ucsd.edu/)!
+Check us out [here](http://tse.ucsd.edu/){:target="\_blank"}!
 
 ## Why are you here?
 
@@ -61,7 +61,7 @@ The goal of this program is to give you some insight into what it is like to be 
 
 In this program, you will learn how to make your very own website, which you can put on your college resume.
 
-Having any web development skills is quite important these days as our society transitions to heavily rely on the internet. [Instagram](https://instagram.com), [Facebook](https://facebook.com), and [Twitter](https://twitter.com) are web services that you probably use on a daily basis - people who learned web development went to made those for the community!
+Having any web development skills is quite important these days as our society transitions to heavily rely on the internet. [Instagram](https://instagram.com){:target="\_blank"}, [Facebook](https://facebook.com){:target="\_blank"}, and [Twitter](https://twitter.com){:target="\_blank"} are web services that you probably use on a daily basis - people who learned web development went to made those for the community!
 
 ## Google is your friend.
 
@@ -77,7 +77,7 @@ You probably used Google when you had any questions about anything or if you wer
 
 You might have used Google Drive or DropBox to store and view documents on the cloud. However, software developers use Git and GitHub to store and view their code on the cloud.
 
-If you are unfamiliar with Git and GitHub, [This handbook](https://guides.github.com/introduction/git-handbook/) is pretty good at explaining what Git is. It also serves as a nice refresher if you do know Git already. Read it thoroughly, and then we'll summarize the essentials here.
+If you are unfamiliar with Git and GitHub, [This handbook](https://guides.github.com/introduction/git-handbook/){:target="\_blank"} is pretty good at explaining what Git is. It also serves as a nice refresher if you do know Git already. Read it thoroughly, and then we'll summarize the essentials here.
 
 <br/>
 <br/>
@@ -85,7 +85,7 @@ If you are unfamiliar with Git and GitHub, [This handbook](https://guides.github
 
 Basically, Git is a system that keeps a history of any changes to files - it can help you determine exactly _what_ files changed, _when_ they were changed, _who_ changed them, and the reasons _why_ they were changed.
 
-Git is extremely useful when keeping track of collaborative work. For example: when multiple people are working on a project, the collaborators can report their progress by creating their own personal [branch](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) to make any update or changes (e.g. adding extra lines of code to a file or adding a new picture inside a folder), taking a "snapshot" of their changes, then asking to have this "snapshot" of their changes added to the main branch.
+Git is extremely useful when keeping track of collaborative work. For example: when multiple people are working on a project, the collaborators can report their progress by creating their own personal [branch](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell){:target="\_blank"} to make any update or changes (e.g. adding extra lines of code to a file or adding a new picture inside a folder), taking a "snapshot" of their changes, then asking to have this "snapshot" of their changes added to the main branch.
 
 There are a bunch of uses for Git, such as:
 
@@ -128,11 +128,11 @@ If you still are confused (even after reading the handbook), don't forget that G
 
 ## Github
 
-[Github](https://github.com) is a website that helps us developers store and manage our code. [Google search results](https://www.google.com/search?source=hp&ei=_LGfXfamA8Xv9AP4zo34Cw&q=what+is+github&oq=what+is+github&gs_l=psy-ab.3..0l10.533.1776..2337...0.0..3.289.2927.1j5j8......0....1..gws-wiz.......0i131.m6aMxyvB8is&ved=0ahUKEwj2lNGM4JLlAhXFN30KHXhnA78Q4dUDCAg&uact=5) can give us more insight into what Github is. Some features that Github provide for developers make it really easy for us to do pretty cool things, like [using Git commands without knowing any command line interface](https://desktop.github.com/) or [have our own website hosted online for free](https://pages.github.com/)!
+[Github](https://github.com){:target="\_blank"} is a website that helps us developers store and manage our code. [Google search results](https://www.google.com/search?source=hp&ei=_LGfXfamA8Xv9AP4zo34Cw&q=what+is+github&oq=what+is+github&gs_l=psy-ab.3..0l10.533.1776..2337...0.0..3.289.2927.1j5j8......0....1..gws-wiz.......0i131.m6aMxyvB8is&ved=0ahUKEwj2lNGM4JLlAhXFN30KHXhnA78Q4dUDCAg&uact=5){:target="\_blank"} can give us more insight into what Github is. Some features that Github provide for developers make it really easy for us to do pretty cool things, like [using Git commands without knowing any command line interface](https://desktop.github.com/){:target="\_blank"} or [have our own website hosted online for free](https://pages.github.com/){:target="\_blank"}!
 
 ## Github Desktop
 
-In the next lesson, we will explore what [Github Desktop](https://desktop.github.com) is and how we will use it to our advantage. Github Desktop is an application that allows us to use Git commands without needing any command line interface.
+In the next lesson, we will explore what [Github Desktop](https://desktop.github.com){:target="\_blank"} is and how we will use it to our advantage. Github Desktop is an application that allows us to use Git commands without needing any command line interface.
 
 ## Task: Make a Github account!
 
@@ -141,10 +141,10 @@ One of the first steps of succeeding in this program is by making a Github accou
 ![sign-up page](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-01/github-sign-up.png)
 
 Steps:
-1.  Go to [github.com](https://github.com).
+1.  Go to [github.com](https://github.com){:target="_blank"}.
 2.  Click "Sign up" to create an account. Alternatively, "Sign in" if you already have an account.
-3.  If you are creating a new account, think carefully about your username! If you want to show off your work, then colleges and workplaces will see your GitHub username attached to it. This means while _xxxBigBallerMoneySwagMasterxxx_ is a cool username, it probably will not reflect very well in front of the college admissions staff or to any recruiter. A suggestion for your username is to make it a shortened version of your full name. Fortunately, anyone can change their username afterwards in your settings.
-4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/){:target="_blank"} to make your own [repository](https://blog.axosoft.com/learning-git-repository/)!
+3.  If you are creating a new account, think carefully about your username! If you want to show off your work, then colleges and workplaces will see your GitHub username attached to it. This means while \_xxxBigBallerMoneySwagMasterxxx_ is a cool username, it probably will not reflect very well in front of the college admissions staff or to any recruiter. A suggestion for your username is to make it a shortened version of your full name. Fortunately, anyone can change their username afterwards in your settings.
+4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/){:target="\_blank"} to make your own [repository](https://blog.axosoft.com/learning-git-repository/){:target="\_blank"}!
 5.  Congratulations! You're one step closer to succeeding in this program and becoming a developer!
 
 <a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
