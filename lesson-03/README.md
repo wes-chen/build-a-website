@@ -2,9 +2,25 @@
 
 # Install Atom.
 
-We have realized that Notepad is terrible. Let's improve your programming environment by installing Atom.
+If you want to be a proper web developer, then you should be using a proper text editor - not Notepad and not TextEdit.
 
-[Please click here to open the Atom installer.](https://atom.io/){:target="_blank"}
+Atom is a "hackable" text editor for the 21st Century, and it is the text editor of choice not only for us, but for many computer programmers all over the world.
+
+Let's check if you have Atom already installed on your computer.
+
+*For Windows*:
+1. Click the search button in the bottom-left of the menu bar.
+2. Enter "Atom".
+3. If you have Atom installed, then you should be able to see a green atom icon. That's Atom! ![windows-atom](windows-atom.png)
+4. If you do not have Atom installed, then you should not be able to find this green atom icon. From here, you will have to download it using the link below.
+
+*For Mac*:
+1. Click the magnifying glass in the upper-right corner, or press `Command + SPACE`.
+2. Enter "Atom".
+3. If you have Atom installed, then you should be able to see a green atom icon. That's Atom! ![mac-atom](mac-atom.png)
+4. If you do not have Atom installed, then you should not be able to find this green atom icon. From here, you will have to download it using the link below.
+
+[Please click here to download the Atom installer.](https://atom.io/){:target="_blank"}
 
 Once we have Atom installed, let's continue learning!
 
@@ -92,31 +108,83 @@ For example, writing `<h1>Topic</h1>` in your `index.html` file will display a h
 `a` stands for "anchor", and it is used to redirect the user to another location in the same or other web pages. "href" is how you reference the redirect of the user in which you can put a local path here or perhaps an entire web URL.
 For example, writing `<a href="https://www.google.com/">Click me for help!</a>` in your `index.html` file will display a clickable text saying "Click me for help!" that when someone clicks on that that text, it will change the current webpage to Google's homepage.
 
-## CHALLENGE #01: 
+## PRE-CHALLENGE #01: Do you have an `index.html`?
+
+We mentioned an `index.html` file earlier - but do you actually know if you have that file for your website?
+
+Let's go ahead and search for our `index.html` file.
+
+*For Windows*:
+1. Click the search button in the bottom-left of the menu bar.
+2. Enter "File Explorer", then click it.
+![windows-index](windows-index.png)
+3. Click on `Documents -> GitHub -> [username].github.io`. This should lead you to your website folder. Inside the folder, you might have a `README.md`, an `index.html`, or perhaps nothing at all. If you DO have an `index.html`, then you are set! Otherwise, **if you DO NOT have an `index.html`, then go to step 4**. For example, my folder looks like this:
+![windows-index](windows-index-02.png)
+Since I do not have an `index.html`, I will need to add it.
+4. To add an `index.html` file to your folder, **please right-click the link [here](index.html) and select `Save as...`**.
+5. Go ahead and save the `index.html` file to location of your website folder (e.g. `Documents -> GitHub -> [username].github.io`).
+![windows-index](windows-index-03.png)
+6. Your website folder should look like this now:
+![windows-index](windows-index-04.png)
+7. Go ahead and open this website folder in Atom by opening up Atom, click `File -> Add Project Folder...`, then navigate to your project folder (e.g. `Documents -> GitHub -> [username].github.io`)
+![windows-index](windows-index-05.png)
+![windows-index](windows-index-06.png)
+8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!
+![windows-index](windows-index-07.png)
+
+*For Mac*:
+1. 1. Click the magnifying glass in the upper-right corner, or press `Command + SPACE`.
+2. Enter "Finder", then click it.
+![mac-index](mac-index.png)
+3. Click on `Documents -> GitHub -> [username].github.io`. This should lead you to your website folder. Inside the folder, you might have a `README.md`, an `index.html`, or perhaps nothing at all. If you DO have an `index.html`, then you are set! Otherwise, **if you DO NOT have an `index.html`, then go to step 4**. For example, my folder looks like this:
+![mac-index](windows-index-02.png)
+Since I do not have an `index.html`, I will need to add it.
+4. To add an `index.html` file to your folder, **please right-click the link [here](index.html) and select `Save as...`**.
+5. Go ahead and save the `index.html` file to location of your website folder (e.g. `Documents -> GitHub -> [username].github.io`).
+![mac-index](windows-index-03.png)
+6. Your website folder should look like this now:
+![mac-index](windows-index-04.png)
+7. Go ahead and open this website folder in Atom by opening up Atom, click `File -> Add Project Folder...`, then navigate to your project folder (e.g. `Documents -> GitHub -> [username].github.io`)
+![mac-index](windows-index-05.png)
+![mac-index](windows-index-06.png)
+8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!
+![mac-index](windows-index-07.png)
+
+
+## CHALLENGE #01: The beginnings!
 Let's try adding these three HTML elements to your website! Go ahead and clear our your `index.html` file, then edit your `index.html` file so that you insert these items:
 
 - a large heading element that says "Name"
 - a paragraph element that says your name
 - a smaller heading element that says "Description"
-- a paragraph element that contains a short discription about you
+- a paragraph element that contains a short description about you
 - an anchor element saying "Click me!" that redirects the user to your GitHub profile
 
-Here are some hints to get you started:
+**Here are some hints to remember**:
 
-- `index.html` can be located on your computer in your Documents/GitHub/[username].github.io/ folder.
-- Once you make your changes, don't forget to SAVE your `index.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
-- In order to check your changes before you push it to your website, try double-clicking your `index.html` file to open it in your web browser.
+- `index.html` can be located on your computer in your `Documents/GitHub/[username].github.io/ folder`.
+- Once you make your changes, don't forget to SAVE your `index.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` for Windows or `Command + S` for Mac at the same time.
+- In order to check your changes, open up your GitHub Desktop (the app with the purple background), click `Commit to master` on the bottom-left, then click `Push origin` on the top bar. Afterwards, open up a web browser and put in your website (e.g `[username].github.io`) in the URL, and it should load!
 - Don't forget to use Google to your advantage!
 
-Once you are condifent and satisfied with your changes, go ahead and commit them to your local repository by using GitHub Desktop, then push them to your online GitHub Repository!
+**Here are some steps to get you started**:
+
+1. Once you open up your `index.html`, let's go ahead and place a large heading element for our name. We will use `<h1>` as our heading size.
+![challenge01](challenge01-01.png)
+2. Since this large heading element will say "Name", we will put "Name" in between the `<h1>`.
+![challenge01](challenge01-02.png)
+3. Next, we will have a paragraph that will say our name. The paragraph element is `<p>`. For example, my name is Benson Budiman, so I will put "Benson Budiman".
+![challenge01](challenge01-03.png)
+4. Let's go ahead and place a smaller heading element that says "Description". We will use `<h4>` as our heading size.
+![challenge01](challenge01-04.png)
+5. Next, we will have a paragraph that will say a short description about me. The paragraph element is `<p>`. For example, I am a UCSD student, so I will put that "I am a UCSD student."
+![challenge01](challenge01-05.png)
+6. Finally, we will have an anchor element that says "Click me!" that redirects the user to my GitHub profile. Make sure to replace the link with your own profile link!
+![challenge01](challenge01-06.png)
 
 Here is an example of a small website that includes these three HTML elements:
 
-![triad](challenge01.JPG?raw=true "triad")
-
-<br/>
-<br/>
-<br/>
+![challenge01](challenge01.JPG)
 
 ### More Essential HTML Elements
 
@@ -141,7 +209,7 @@ For example, typing `<p>This is <span style="color:blue">blue</span>.</p>` will 
 ![triad](blue.JPG?raw=true "triad")
 For this lesson, `span` is not as important because we will not cover any styling features, but you should not forget about it as well! It will come back next lesson.
 
-## CHALLENGE #02: 
+## CHALLENGE #02: Let's add a little more!
 Let's try adding more three HTML elements to your website! Go ahead and edit your `index.html` file so that you insert these items to the bottom of what you currently have:
 
 - a button that says "Click me!"
@@ -152,22 +220,29 @@ Let's try adding more three HTML elements to your website! Go ahead and edit you
 - one line break between the button element and the image element of a dog
 - one line break between the image element of a dog and the image element of a cat
 
-Here are some hints to get you started:
+**Here are some hints to remember**:
 
-- `index.html` can be located on your computer in your Documents/GitHub/[username].github.io/ folder.
-- Once you make your changes, don't forget to SAVE your `index.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
-- In order to check your changes before you push it to your website, try double-clicking your `index.html` file to open it in your web browser.
+- `index.html` can be located on your computer in your `Documents/GitHub/[username].github.io/` folder.
+- Once you make your changes, don't forget to SAVE your `index.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` for Windows or `Command + S` for Mac at the same time.
+- In order to check your changes, open up your GitHub Desktop (the app with the purple background), click `Commit to master` on the bottom-left, then click `Push origin` on the top bar. Afterwards, open up a web browser and put in your website (e.g `[username].github.io`) in the URL, and it should load!
 - Don't forget to use Google to your advantage!
 
-Once you are condifent and satisfied with your changes, go ahead and commit them to your local repository by using GitHub Desktop, then push them to your online GitHub Repository!
+**Here are some steps to get you started**:
+
+1. Once you open up your `index.html`, let's go ahead and place that button that says "Click me!".
+![challenge02](challenge02-01.png)
+2. Let's place an image of a dog! [Here](https://boygeniusreport.files.wordpress.com/2016/11/puppy-dog.jpg?quality=98&strip=all&w=782) is an image of a dog that you can use. Go ahead and click `Here`, and then use its URL link for your dog image!
+![challenge02](challenge02-02.png)
+3. Let's place an image of a cat! [Here](https://timesofindia.indiatimes.com/thumb/msid-67586673,width-800,height-600,resizemode-4/67586673.jpg) is an image of a cat that you can use. Go ahead and click `Here`, and then use its URL link for your cat image!
+![challenge02](challenge02-03.png)
+4. Let's put two line breaks between the paragraph element of your name and the heading element of "Description".
+![challenge02](challenge02-04.png)
+5. Let's put the final three line breaks - one line break between the anchor element and the button element, one line break between the button element and the image element of a dog, and one line break between the image element of a dog and the image element of a cat.
+![challenge02](challenge02-05.png)
 
 Here is an example of a small website that includes these added HTML elements:
 
-![triad](challenge02.JPG?raw=true "triad")
-
-<br/>
-<br/>
-<br/>
+![challenge02](challenge02.JPG)
 
 ### Slightly more complex Elements
 
@@ -254,39 +329,47 @@ Ex: <br />
 
 ![metadata](metadata.png?raw=true "metadata")
 
-## CHALLENGE #03:
+## CHALLENGE #03: The finishing touch!
 
-Here is an advanced HTML page - try making an exact replica!
-**IMPORTANT**: Instead of editing your `index.html` file, make a new `challenge.html` file on your Desktop, and then edit the `challenge.html` file to complete this challenge. If you need help with this step, please ask one of us, your classmates, or Google! 
+Here is the final challenge. Go ahead and edit your `index.html` file so that you insert these items to the bottom of what you currently have:
 
-(Extra cookie points: try enclosing sections of the page inside `div` elements or putting text between `span` elements - you will find it useful later on).
+- Add the proper metadata to your `index.html`
+- Add an unordered list of your favorite food(s)
+- Add a table with columns for your friend and their GitHub username
 
-![solution](solution.png?raw=true "solution")
+**Here are some hints to remember**:
 
-Raw text file - copy and paste these texts into their respective elements: [Link](brown_bear_raw.txt){:target="_blank"}.
-
-Specifications between headers and paragraph elements: [Link](brown_bear.png){:target="_blank"}.
-
-Here are some hints to get you started:
-
-- Below the "Species" heading element is an unordered list.
-- Below the "Countries with Large Brown Bear Populations" heading element is an ordered list.
-- To do bold in HTML is `<b></b>`.
-- To do italics in HTML is `<i></i>`.
-- The button doesn't need to do anything for now.
-- Once you make your changes, don't forget to SAVE your `challenge.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
-- In order to check your changes, try double-clicking your `challenge.html` file to open it in your web browser. If this opens up in a text editor, then you may to right-click and select `Open with->Google Chrome`.
+- `index.html` can be located on your computer in your `Documents/GitHub/[username].github.io/` folder.
+- Once you make your changes, don't forget to SAVE your `index.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` for Windows or `Command + S` for Mac at the same time.
+- In order to check your changes, open up your GitHub Desktop (the app with the purple background), click `Commit to master` on the bottom-left, then click `Push origin` on the top bar. Afterwards, open up a web browser and put in your website (e.g `[username].github.io`) in the URL, and it should load!
 - Don't forget to use Google to your advantage!
 
-Once you are confident and satisfied with your changes, **DO NOT** commit them to your local repository by using GitHub Desktop - you won't be able to do that! Instead, use what you have learned into this lesson and add your own personal changes to your `index.html` file inside your local repository. Afterwards, commit those changes, then push them to your online GitHub repository!
+**Here are some steps to get you started**:
+
+1. Let's first add the proper metadata to your `index.html`. Using the image below, you will want to copy the lines where there are red arrows. The lines without red arrows should be already written from the challenges above, and so those lines should be placed within a `<body>` tag. Make sure your code looks similar in formatting to the image below:
+![challenge03](challenge03-01.png)
+2. Next, let's begin to make our unordered list of favorite foods. We will start by adding the `<ul>` tags to our `index.html`.
+![challenge03](challenge03-02.png)
+3. My favorite foods are sushi, pizza, and Hot Pockets. I will add my favorite foods as a list item using `<li>`. You should add your own favorite foods - add as many (or as little) as you would like!
+![challenge03](challenge03-03.png)
+4. Don't forget to say that this is your list of favorite foods!
+![challenge03](challenge03-04.png)
+5. Let's start making a table of my friends and their GitHub username! Let's first create a `<table>`. Then, place a `<tr>` (table row) inside the `<table>` and insert two `<th>` (table headers) - `My friends`, and `GitHub username`.
+![challenge03](challenge03-05.png)
+6. Ask some of your friends (or the people next to you) for their name and their GitHub username! Let's say I have `Wesley Chen` as my friend, and his GitHub username is `wes-chen`, and I have another friend named `Jason Cabrera` with his GitHub username being `jayrc7`. For `Wesley Chen`, I would add another `<tr>` (table row), then place two `<td>` for his name and his GitHub username. Likewise, I would do the same for `Jason Cabrera`. Feel free to add as many friends as you would like!
+![challenge03](challenge03-06.png)
+
+Here is an example of what that includes these added HTML elements look like:
+
+![challenge03](challenge03.png)
 
 ## Final Remarks
-[Here](https://wes-chen.github.io/build-a-website/lesson-03/sample.html){:target="_blank"} is an example of things you could put on your website!
+[Here](https://wes-chen.github.io/build-a-website/lesson-03/sample.html){:target="_blank"} is an example of more things you could put on your website!
 
 [Codecademy](https://www.codecademy.com/learn){:target="_blank"} does a pretty good job of teaching HTML. Run through [this HTML tutorial](https://www.codecademy.com/learn/learn-html){:target="_blank"} to learn more.
 
 ## Next Lesson
 
-For next lesson, we learn about CSS. If you are a proactive student, please run through this [codecademy tutorial](https://www.codecademy.com/learn/learn-css){:target="_blank"} at your own pace before the next lesson.
+For next lesson, we learn about CSS, a styling language used to help our HTML look better. If you would like to get ahead, then please run through this [Codecademy tutorial](https://www.codecademy.com/learn/learn-css){:target="_blank"} at your own pace before the next lesson.
 
 <a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
