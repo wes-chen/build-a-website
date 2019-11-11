@@ -121,7 +121,7 @@ Let's go ahead and search for our `index.html` file.
 3. Click on `Documents -> GitHub -> [username].github.io`. This should lead you to your website folder. Inside the folder, you might have a `README.md`, an `index.html`, or perhaps nothing at all. If you DO have an `index.html`, then you are set! Otherwise, **if you DO NOT have an `index.html`, then go to step 4**. For example, my folder looks like this:
 ![windows-index](windows-index-02.png)
 Since I do not have an `index.html`, I will need to add it.
-4. To add an `index.html` file to your folder, **please right-click the link [here](index.html) and select `Save as...`**.
+4. To add an `index.html` file to your folder, **please right-click the link [here](index_html_file/index.html) and select `Save as...`**.
 5. Go ahead and save the `index.html` file to location of your website folder (e.g. `Documents -> GitHub -> [username].github.io`).
 ![windows-index](windows-index-03.png)
 6. Your website folder should look like this now:
@@ -129,7 +129,7 @@ Since I do not have an `index.html`, I will need to add it.
 7. Go ahead and open this website folder in Atom by opening up Atom, click `File -> Add Project Folder...`, then navigate to your project folder (e.g. `Documents -> GitHub -> [username].github.io`)
 ![windows-index](windows-index-05.png)
 ![windows-index](windows-index-06.png)
-8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!
+8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!<br/>
 ![windows-index](windows-index-07.png)
 
 *For Mac*:
@@ -139,7 +139,7 @@ Since I do not have an `index.html`, I will need to add it.
 3. Click on `Documents -> GitHub -> [username].github.io`. This should lead you to your website folder. Inside the folder, you might have a `README.md`, an `index.html`, or perhaps nothing at all. If you DO have an `index.html`, then you are set! Otherwise, **if you DO NOT have an `index.html`, then go to step 4**. For example, my folder looks like this:
 ![mac-index](windows-index-02.png)
 Since I do not have an `index.html`, I will need to add it.
-4. To add an `index.html` file to your folder, **please right-click the link [here](index.html) and select `Save as...`**.
+4. To add an `index.html` file to your folder, **please right-click the link [here](index_html_file/index.html) and select `Save as...`**.
 5. Go ahead and save the `index.html` file to location of your website folder (e.g. `Documents -> GitHub -> [username].github.io`).
 ![mac-index](windows-index-03.png)
 6. Your website folder should look like this now:
@@ -147,7 +147,7 @@ Since I do not have an `index.html`, I will need to add it.
 7. Go ahead and open this website folder in Atom by opening up Atom, click `File -> Add Project Folder...`, then navigate to your project folder (e.g. `Documents -> GitHub -> [username].github.io`)
 ![mac-index](windows-index-05.png)
 ![mac-index](windows-index-06.png)
-8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!
+8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!<br/>
 ![mac-index](windows-index-07.png)
 
 
@@ -169,17 +169,17 @@ Let's try adding these three HTML elements to your website! Go ahead and clear o
 
 **Here are some steps to get you started**:
 
-1. Once you open up your `index.html`, let's go ahead and place a large heading element for our name. We will use `<h1>` as our heading size.
+1. Once you open up your `index.html`, let's go ahead and place a large heading element for our name. We will use `<h1>` as our heading size.<br/>
 ![challenge01](challenge01-01.png)
-2. Since this large heading element will say "Name", we will put "Name" in between the `<h1>`.
+2. Since this large heading element will say "Name", we will put "Name" in between the `<h1>`.<br/>
 ![challenge01](challenge01-02.png)
-3. Next, we will have a paragraph that will say our name. The paragraph element is `<p>`. For example, my name is Benson Budiman, so I will put "Benson Budiman".
+3. Next, we will have a paragraph that will say our name. The paragraph element is `<p>`. For example, my name is Benson Budiman, so I will put "Benson Budiman".<br/>
 ![challenge01](challenge01-03.png)
-4. Let's go ahead and place a smaller heading element that says "Description". We will use `<h4>` as our heading size.
+4. Let's go ahead and place a smaller heading element that says "Description". We will use `<h4>` as our heading size.<br/>
 ![challenge01](challenge01-04.png)
-5. Next, we will have a paragraph that will say a short description about me. The paragraph element is `<p>`. For example, I am a UCSD student, so I will put that "I am a UCSD student."
+5. Next, we will have a paragraph that will say a short description about me. The paragraph element is `<p>`. For example, I am a UCSD student, so I will put that "I am a UCSD student."<br/>
 ![challenge01](challenge01-05.png)
-6. Finally, we will have an anchor element that says "Click me!" that redirects the user to my GitHub profile. Make sure to replace the link with your own profile link!
+6. Finally, we will have an anchor element that says "Click me!" that redirects the user to my GitHub profile. Make sure to replace the link with your own profile link!<br/>
 ![challenge01](challenge01-06.png)
 
 Here is an example of a small website that includes these three HTML elements:
