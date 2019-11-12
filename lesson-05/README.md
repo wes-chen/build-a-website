@@ -164,30 +164,26 @@ Go ahead and open your File Explorer, then find your way towards where your `ind
 
 At the top of the File Explorer, go ahead and click `View` then check-mark `File name extensions`. If you complete this step (or have completed it), then you should able to see the `.html` portion for `index.html`.
 
-![rename-02](rename-02.png)
+![rename-02](rename_pics/rename-02.png)
 
 You should see `index.html` once you navigate to your website repository. It's alright if you see other files as well - we will only focus on `index.html`:
 
-![rename-01](rename-01.png)
+![rename-01](rename_pics/rename-01.png)
 
 Once you find `index.html`, go ahead and right-click it and select `Rename`. Go ahead and rename it to `other.html`.
 
-![rename-03](rename-03.png)
-![rename-04](rename-04.png)
+![rename-03](rename_pics/rename-03.png)
+![rename-04](rename_pics/rename-04.png)
 
 Right-click an empty area, then select `New -> Text Document`. Go ahead and name this new file `index.html`. If asked if you want to change it, select `Yes`.
 
-![rename-03](rename-05.png)
-![rename-04](rename-06.png)
-![rename-04](rename-07.png)
+![rename-03](rename_pics/rename-05.png)
+![rename-04](rename_pics/rename-06.png)
+![rename-04](rename_pics/rename-07.png)
 
 Now that you have a fresh `index.html` to work off, please right-click `index.html`, click `Open with -> Atom` and copy the code in the next image into your new `index.html`. Please replace `<title>` with your own name!
 
-![new](new.png)
-
-</br>
-</br>
-</br>
+![new](rename_pics/new.png)
 
 ## PRE-CHALLENGE #02: Add Bootstrap to your website (index.html).
 
@@ -203,15 +199,11 @@ If you have done it correctly, then when you open up your `index.html` in Atom, 
 
 ![pre-challenge](pre-challenge-better.png)
 
-</br>
-</br>
-</br>
-
 ## CHALLENGE #01: Center a image, name and description with Bootstrap.
 
 From starting fresh, your `index.html` file should look something like this now:
 
-![challenge-01-1](challenge-01-1.png)
+![challenge01-1](challenge01/challenge01-1.png)
 
 From here, let's go ahead and set a picture as an `<img>`, my name as a `<h1>` and my description as a `<p>`. I have chosen a picture of UCSD's Geisel Library for my `<img>`, but please feel free to pick anything as long as it is appropriate. Once you selected a `src` for your image, go ahead and give it a `class="img-thumbnail"` and a `width="200px"`.
 
@@ -219,29 +211,25 @@ Giving it the class of `img-thumbnail` will use Bootstrap to give your image a r
 
 Your `index.html` file should look something like this now:
 
-![challenge-01-2](challenge-01-2.png)
+![challenge01-2](challenge01/challenge01-2.png)
 
 Afterwards, we want to surround the `<img>`, `<h1>` and `<p>` HTML tags with a `<div>` tag. In other words, we will have a total of 3 `<div>` and `</div>` pairs in our `index.html`. Once we have done that, we will want to surround the entire inner-body of `<body>` with a `<div>`, bringing our total of `<div>` and `</div>` pairs to 4.
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-01-3](challenge-01-3.png)
+![challenge01-3](challenge01/challenge01-3.png)
 
 Once you have all your `<div>` in place, please give your first `<div>` a `class="container"`. For the rest of the three `<div>`, please give them a `class="row justify-content-md-center"`.
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-01-4](challenge-01-4.png)
+![challenge01-4](challenge01/challenge01-4.png)
 
 Once you completed all these steps, double-clicking your `index.html` and opening it in Google Chrome should show something like this:
 
-![challenge-01-5](challenge-01-5.png)
+![challenge01-5](challenge01/challenge01-5.png)
 
 If you are able to see something similar to above, then that means you are able to use Bootstrap to center your HTML content! If you are satisfied with your results, then go ahead and open up GitHub Desktop to `commit` and `push` your changes to your website online!
-
-</br>
-</br>
-</br>
 
 ## CHALLENGE #02: Add two columns for your class project and other experiences with Bootstrap.
 
@@ -251,35 +239,31 @@ Within your `index.html`, look for `</body>`, the closing tag for `<body>`. Righ
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-02-1](challenge-02-1.png)
+![challenge02-1](challenge02/challenge02-1.png)
 
 Within the new `<div>` with a `class="container"`, create another `<div>`, then give it a `class="row"`.
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-02-2](challenge-02-2.png)
+![challenge02-2](challenge02/challenge02-2.png)
 
 Within the new `<div>` with a `class="row"`, create two more `<div>`, and give them a `class="col text-center"`.
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-02-3](challenge-02-3.png)
+![challenge02-3](challenge02/challenge02-3.png)
 
 Within the two new `<div>` with a `class="col"`, add a `<h2>` for your class projects within one `<div>`, then add another `<h2>` for your other experiences within the other `<div>`.
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-02-4](challenge-02-4.png)
+![challenge02-4](challenge02/challenge02-4.png)
 
 Once you completed all these steps, double-clicking your `index.html` and opening it in Google Chrome should show something like this:
 
-![challenge-02-5](challenge-02-5.png)
+![challenge02-5](challenge02/challenge02-5.png)
 
 If you are able to see something similar to above, then that means you have succesfully created columns using Bootstrap! If you are satisfied with your results, then go ahead and open up GitHub Desktop to `commit` and `push` your changes to your website online!
-
-</br>
-</br>
-</br>
 
 ## CHALLENGE #03: Add cards to your class projects and other experiences using Bootstrap.
 
@@ -289,23 +273,23 @@ Underneath your `<h2>` for class projects, create a new `<div>`, then give it a 
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-03-1](challenge-03-1.png)
+![challenge03-1](challenge03/challenge03-1.png)
 
 Within your `<div>` with a `class="card-body"`, add a `<h5>` with a `class="card-title"`. Go ahead and put the title of a class project with the `<h5>` tags. For my purpose, I will put the build-a-website title.
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-03-2](challenge-03-2.png)
+![challenge03-2](challenge03/challenge03-2.png)
 
 Underneath the `<h5>` tag, add a `<p>` with a `class="card-text"`. Go ahead and put the description of a class project with the `<p>` tags. For my purpose, I will put description of the build-a-website program.
 
 If you have followed these steps correctly, your `index.html` file should look something like this now:
 
-![challenge-03-3](challenge-03-3.png)
+![challenge03-3](challenge03/challenge03-3.png)
 
 If you double-click your `index.html` and open it in Google Chrome should show something like this:
 
-![challenge-03-4](challenge-03-4.png)
+![challenge03-4](challenge03/challenge03-4.png)
 
 If you are able to see something similar to above, then that means you have succesfully created a card using Bootstrap! Let's go ahead and add a few more cards to our columns.
 
@@ -313,11 +297,11 @@ I've gone ahead and added two cards to my experiences column.
 
 If you are able to add two cards to your experience column, your `index.html` file should look something like this now:
 
-![challenge-03-5](challenge-03-5.png)
+![challenge03-5](challenge03/challenge03-5.png)
 
 Once you completed all these steps, double-clicking your `index.html` and opening it in Google Chrome should show something like this:
 
-![challenge-03-6](challenge-03-6.png)
+![challenge03-6](challenge03/challenge03-6.png)
 
 If you are able to see something similar to above, then that means you have succesfully created cards using Bootstrap! Go ahead and create more cards if you have more class projects and other experiences you want to talk about. If you are satisfied with your results, then go ahead and open up GitHub Desktop to `commit` and `push` your changes to your website online!
 

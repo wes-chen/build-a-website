@@ -11,13 +11,13 @@ Let's check if you have Atom already installed on your computer.
 *For Windows*:
 1. Click the search button in the bottom-left of the menu bar.
 2. Enter "Atom".
-3. If you have Atom installed, then you should be able to see a green atom icon. That's Atom! ![windows-atom](windows-atom.png)
+3. If you have Atom installed, then you should be able to see a green atom icon. That's Atom! ![windows-atom](atom_pics/windows-atom.png)
 4. If you do not have Atom installed, then you should not be able to find this green atom icon. From here, you will have to download it using the link below.
 
 *For Mac*:
 1. Click the magnifying glass in the upper-right corner, or press `Command + SPACE`.
 2. Enter "Atom".
-3. If you have Atom installed, then you should be able to see a green atom icon. That's Atom! ![mac-atom](mac-atom.png)
+3. If you have Atom installed, then you should be able to see a green atom icon. That's Atom! ![mac-atom](atom_pics/mac-atom.png)
 4. If you do not have Atom installed, then you should not be able to find this green atom icon. From here, you will have to download it using the link below.
 
 [Please click here to download the Atom installer.](https://atom.io/){:target="_blank"}
@@ -117,38 +117,38 @@ Let's go ahead and search for our `index.html` file.
 *For Windows*:
 1. Click the search button in the bottom-left of the menu bar.
 2. Enter "File Explorer", then click it.
-![windows-index](windows-index.png)
+![windows-index](index_pics/windows-index.png)
 3. Click on `Documents -> GitHub -> [username].github.io`. This should lead you to your website folder. Inside the folder, you might have a `README.md`, an `index.html`, or perhaps nothing at all. If you DO have an `index.html`, then you are set! Otherwise, **if you DO NOT have an `index.html`, then go to step 4**. For example, my folder looks like this:
-![windows-index](windows-index-02.png)
+![windows-index](index_pics/windows-index-02.png)
 Since I do not have an `index.html`, I will need to add it.
 4. To add an `index.html` file to your folder, **please right-click the link [here](index_html_file/index.html) and select `Save as...`**.
 5. Go ahead and save the `index.html` file to location of your website folder (e.g. `Documents -> GitHub -> [username].github.io`).
-![windows-index](windows-index-03.png)
+![windows-index](index_pics/windows-index-03.png)
 6. Your website folder should look like this now:
-![windows-index](windows-index-04.png)
+![windows-index](index_pics/windows-index-04.png)
 7. Go ahead and open this website folder in Atom by opening up Atom, click `File -> Add Project Folder...`, then navigate to your project folder (e.g. `Documents -> GitHub -> [username].github.io`)
-![windows-index](windows-index-05.png)
-![windows-index](windows-index-06.png)
+![windows-index](index_pics/windows-index-05.png)
+![windows-index](index_pics/windows-index-06.png)
 8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!<br/>
-![windows-index](windows-index-07.png)
+![windows-index](index_pics/windows-index-07.png)
 
 *For Mac*:
 1. 1. Click the magnifying glass in the upper-right corner, or press `Command + SPACE`.
 2. Enter "Finder", then click it.
-![mac-index](mac-index.png)
+![mac-index](index_pics/mac-index.png)
 3. Click on `Documents -> GitHub -> [username].github.io`. This should lead you to your website folder. Inside the folder, you might have a `README.md`, an `index.html`, or perhaps nothing at all. If you DO have an `index.html`, then you are set! Otherwise, **if you DO NOT have an `index.html`, then go to step 4**. For example, my folder looks like this:
-![mac-index](windows-index-02.png)
+![mac-index](index_pics/windows-index-02.png)
 Since I do not have an `index.html`, I will need to add it.
 4. To add an `index.html` file to your folder, **please right-click the link [here](index_html_file/index.html) and select `Save as...`**.
 5. Go ahead and save the `index.html` file to location of your website folder (e.g. `Documents -> GitHub -> [username].github.io`).
-![mac-index](windows-index-03.png)
+![mac-index](index_pics/windows-index-03.png)
 6. Your website folder should look like this now:
-![mac-index](windows-index-04.png)
+![mac-index](index_pics/windows-index-04.png)
 7. Go ahead and open this website folder in Atom by opening up Atom, click `File -> Add Project Folder...`, then navigate to your project folder (e.g. `Documents -> GitHub -> [username].github.io`)
-![mac-index](windows-index-05.png)
-![mac-index](windows-index-06.png)
+![mac-index](index_pics/windows-index-05.png)
+![mac-index](index_pics/windows-index-06.png)
 8. You should see your project folder on the left column of your Atom! Double-click your `index.html` to edit it!<br/>
-![mac-index](windows-index-07.png)
+![mac-index](index_pics/windows-index-07.png)
 
 
 ## CHALLENGE #01: The beginnings!
@@ -170,21 +170,21 @@ Let's try adding these three HTML elements to your website! Go ahead and clear o
 **Here are some steps to get you started**:
 
 1. Once you open up your `index.html`, let's go ahead and place a large heading element for our name. We will use `<h1>` as our heading size.<br/>
-![challenge01](challenge01-01.png)
+![challenge01](challenge01/challenge01-01.png)
 2. Since this large heading element will say "Name", we will put "Name" in between the `<h1>`.<br/>
-![challenge01](challenge01-02.png)
+![challenge01](challenge01/challenge01-02.png)
 3. Next, we will have a paragraph that will say our name. The paragraph element is `<p>`. For example, my name is Benson Budiman, so I will put "Benson Budiman".<br/>
-![challenge01](challenge01-03.png)
+![challenge01](challenge01/challenge01-03.png)
 4. Let's go ahead and place a smaller heading element that says "Description". We will use `<h4>` as our heading size.<br/>
-![challenge01](challenge01-04.png)
+![challenge01](challenge01/challenge01-04.png)
 5. Next, we will have a paragraph that will say a short description about me. The paragraph element is `<p>`. For example, I am a UCSD student, so I will put that "I am a UCSD student."<br/>
-![challenge01](challenge01-05.png)
+![challenge01](challenge01/challenge01-05.png)
 6. Finally, we will have an anchor element that says "Click me!" that redirects the user to my GitHub profile. Make sure to replace the link with your own profile link!<br/>
-![challenge01](challenge01-06.png)
+![challenge01](challenge01/challenge01-06.png)
 
 Here is an example of a small website that includes these three HTML elements:
 
-![challenge01](challenge01.JPG)
+![challenge01](challenge01/challenge01.JPG)
 
 ### More Essential HTML Elements
 
@@ -230,19 +230,19 @@ Let's try adding more three HTML elements to your website! Go ahead and edit you
 **Here are some steps to get you started**:
 
 1. Once you open up your `index.html`, let's go ahead and place that button that says "Click me!".
-![challenge02](challenge02-01.png)
+![challenge02](challenge02/challenge02-01.png)
 2. Let's place an image of a dog! [Here](https://boygeniusreport.files.wordpress.com/2016/11/puppy-dog.jpg?quality=98&strip=all&w=782) is an image of a dog that you can use. Go ahead and click `Here`, and then use its URL link for your dog image!
-![challenge02](challenge02-02.png)
+![challenge02](challenge02/challenge02-02.png)
 3. Let's place an image of a cat! [Here](https://timesofindia.indiatimes.com/thumb/msid-67586673,width-800,height-600,resizemode-4/67586673.jpg) is an image of a cat that you can use. Go ahead and click `Here`, and then use its URL link for your cat image!
-![challenge02](challenge02-03.png)
+![challenge02](challenge02/challenge02-03.png)
 4. Let's put two line breaks between the paragraph element of your name and the heading element of "Description".
-![challenge02](challenge02-04.png)
+![challenge02](challenge02/challenge02-04.png)
 5. Let's put the final three line breaks - one line break between the anchor element and the button element, one line break between the button element and the image element of a dog, and one line break between the image element of a dog and the image element of a cat.
-![challenge02](challenge02-05.png)
+![challenge02](challenge02/challenge02-05.png)
 
 Here is an example of a small website that includes these added HTML elements:
 
-![challenge02](challenge02.JPG)
+![challenge02](challenge02/challenge02.JPG)
 
 ### Slightly more complex Elements
 
@@ -347,21 +347,21 @@ Here is the final challenge. Go ahead and edit your `index.html` file so that yo
 **Here are some steps to get you started**:
 
 1. Let's first add the proper metadata to your `index.html`. Using the image below, you will want to copy the lines where there are red arrows. The lines without red arrows should be already written from the challenges above, and so those lines should be placed within a `<body>` tag. Make sure your code looks similar in formatting to the image below:
-![challenge03](challenge03-01.png)
+![challenge03](challenge03/challenge03-01.png)
 2. Next, let's begin to make our unordered list of favorite foods. We will start by adding the `<ul>` tags to our `index.html`.
-![challenge03](challenge03-02.png)
+![challenge03](challenge03/challenge03-02.png)
 3. My favorite foods are sushi, pizza, and Hot Pockets. I will add my favorite foods as a list item using `<li>`. You should add your own favorite foods - add as many (or as little) as you would like!
-![challenge03](challenge03-03.png)
+![challenge03](challenge03/challenge03-03.png)
 4. Don't forget to say that this is your list of favorite foods!
-![challenge03](challenge03-04.png)
+![challenge03](challenge03/challenge03-04.png)
 5. Let's start making a table of my friends and their GitHub username! Let's first create a `<table>`. Then, place a `<tr>` (table row) inside the `<table>` and insert two `<th>` (table headers) - `My friends`, and `GitHub username`.
-![challenge03](challenge03-05.png)
+![challenge03](challenge03/challenge03-05.png)
 6. Ask some of your friends (or the people next to you) for their name and their GitHub username! Let's say I have `Wesley Chen` as my friend, and his GitHub username is `wes-chen`, and I have another friend named `Jason Cabrera` with his GitHub username being `jayrc7`. For `Wesley Chen`, I would add another `<tr>` (table row), then place two `<td>` for his name and his GitHub username. Likewise, I would do the same for `Jason Cabrera`. Feel free to add as many friends as you would like!
-![challenge03](challenge03-06.png)
+![challenge03](challenge03/challenge03-06.png)
 
 Here is an example of what that includes these added HTML elements look like:
 
-![challenge03](challenge03.png)
+![challenge03](challenge03/challenge03.png)
 
 ## Final Remarks
 [Here](https://wes-chen.github.io/build-a-website/lesson-03/sample.html){:target="_blank"} is an example of more things you could put on your website!
