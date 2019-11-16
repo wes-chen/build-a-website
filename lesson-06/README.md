@@ -2,4 +2,6 @@
 
 # Add Pages and Host Static Files
 
+[this is my half completed sample project.](template.html)
+
 This page will have content soon
