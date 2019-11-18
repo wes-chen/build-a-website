@@ -25,8 +25,6 @@ The final two lessons involve a challenge to make your own professional website 
 4.  [CSS Styling](https://wes-chen.github.io/build-a-website/lesson-04/)
 5.  [Add Bootstrap](https://wes-chen.github.io/build-a-website/lesson-05/)
 6.  [Add Pages and Host Static Files](https://wes-chen.github.io/build-a-website/lesson-06/)
-7.  [Project: Make a your own professional website!](https://wes-chen.github.io/build-a-website/lesson-07/)
-8.  [How to activate Github Pages for other repositories](https://wes-chen.github.io/build-a-website/lesson-08/)
 
 By the end of this program, you will have a working website that you can proudly show off to your friends and family.
 

@@ -198,3 +198,9 @@ Clicking "Solving California's Drought: Harvesting Tears" would redirect me to m
 If you have something similar to what is on here, then congratulations - you added your own research project(s) to your website!
 
 #### If you are satisfied with your results, then go ahead and open up GitHub Desktop to `commit` and `push` your changes to your website online!
+
+## Survey time!
+
+Thanks for taking this course! We really appreciate all the time you have put into this. It's been a pleasure to learn with you!
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe8elFGciypIKBcxG93N5BW7lIidxJ_6yXb6c1K_EzE1fFEJA/viewform?usp=sf_link"><button>Lesson 6 Survey</button></a>
